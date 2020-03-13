@@ -3,13 +3,13 @@ This project is a collection project. Its final aim is to collect and anylyze al
 We are glad to receive your suggestions of anything about this project!
 # Analyze of AI papers of ISCA(2015-2019)
 We now have just done some really basic analysis on these papers, counting out the trend of AI papers on ISCA. Here are there figures.<br>  
-<div align="center"><img width="450" src="uploads/QQ截图20200313174805.jpg"/></div>
+<div align="center"><img width="600" src="uploads/QQ截图20200313174805.jpg"/></div>
 We can find out that __year 2018__ takes almost half of the counts implicating the hottest year of AI accelerators.
 <br>
-<div align="center"><img width="450" src="uploads/QQ截图20200313174817.jpg"/></div>
+<div align="center"><img width="600" src="uploads/QQ截图20200313174817.jpg"/></div>
 The trend of AI is generaly increasing. But now it slightly slow down in 2019.
 <br>
-<div align="center"><img width="450" src="uploads/QQ截图20200313174833.jpg"/></div>
+<div align="center"><img width="600" src="uploads/QQ截图20200313174833.jpg"/></div>
 America is definitely the origin area of most papers. China and North Korea are still two chasing character in AI research though they have done somg terrific ahievements.
 <br>
 Now we list all the papers we have collected. Summarys is updating.
