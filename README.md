@@ -4,7 +4,7 @@ We are glad to receive your suggestions of anything about this project!
 # Analyze of AI papers of ISCA(2015-2019)
 We now have just done some really basic analysis on these papers, counting out the trend of AI papers on ISCA. Here are there figures.<br>  
 <div align="center"><img width="600" src="uploads/QQ截图20200313174805.jpg"/></div>
-We can find out that __year 2018__ takes almost half of the counts implicating the hottest year of AI accelerators.
+We can find out that __"year 2018"__ takes almost half of the counts implicating the hottest year of AI accelerators.
 <br>
 <div align="center"><img width="600" src="uploads/QQ截图20200313174817.jpg"/></div>
 The trend of AI is generaly increasing. But now it slightly slow down in 2019.
