@@ -12,7 +12,9 @@ The trend of AI is generaly increasing. But now it slightly slow down in 2019.
 <div align="center"><img width="600" src="uploads/QQ截图20200313174833.jpg"/></div><br>
 America is definitely the origin area of most papers. China and North Korea are still two chasing character in AI research though they have done somg terrific ahievements.
 <br>
+
 # Tech Poins Summary
+
 The figure below summarys how every architechture proposed was implemented to take the experiments.
 <br>
 <div align="center"><img width="600" src="uploads/QQ截图20200316142634.jpg"/></div><br>
