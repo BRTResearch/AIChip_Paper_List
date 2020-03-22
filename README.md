@@ -18,14 +18,24 @@ The figure below summarys how every architechture proposed was implemented to ta
 And this figure below summarys the scene accelerators supposed to be used at.
 <br>
 <div align="center"><img width="600" src="uploads/QQ截图20200316142812.jpg"/></div><br>
-Now we list all the papers we have collected. Summarys is updating.
-<br>
-<br>
 
-## Proposed Architecture or Method of Paper
 
 <br>
 
+## Proposed Architecture or Method of Paper<br>
+
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Archs or Methods
+    <th text-align="center">Paper(link with origin text)
+    <th text-align="center">Our Summary
+  </tr>
+</table>
+<br>
+
+<br>
+Now we list all the papers we have collected. Summarys is updating.<br>
 
 ## ISCA 2015
 <table>
