@@ -2,12 +2,9 @@
 This project is a collection project. Its final aim is to collect and anylyze all AI-related papers in ISCA, MICRO and HPCA for readers who are in research or be interested in AI, especially the AI accelerators. We now have collected AI-related papers in ISCA from 2015 to 2019. The papers will be all listed below and we are trying to classify them by some tech points. And for some papers, you can find our smmary in __"/Summarys/#year_of_the_paper/"__
 We are glad to receive your suggestions of anything about this project!
 # Analyze of AI papers of ISCA(2015-2019)
-We now have just done some really basic analysis on these papers, counting out the trend of AI papers on ISCA. Here are there figures.<br>  
-<div align="center"><img width="600" src="uploads/QQ截图20200313174805.jpg"/></div><br>
-We can find out that year 2018 takes almost half of the counts implicating the hottest year of AI accelerators.
-<br>
+We now have just done some basic analysis on these papers, trying to answer the trend of AI papers on ISCA. Here are two figures.<br>  
 <div align="center"><img width="600" src="uploads/QQ截图20200313174817.jpg"/></div><br>
-The trend of AI is generaly increasing. But now it slightly slow down in 2019.
+The trend of AI is generaly increasing. But now it slightly slow down in 2019. And we can find out that year 2018 takes almost half of the counts, implicating the hottest year of AI accelerators.
 <br>
 <div align="center"><img width="600" src="uploads/QQ截图20200313174833.jpg"/></div><br>
 America is definitely the origin area of most papers. China and North Korea are still two chasing character in AI research though they have done somg terrific ahievements.
@@ -23,6 +20,12 @@ And this figure below summarys the scene accelerators supposed to be used at.
 <div align="center"><img width="600" src="uploads/QQ截图20200316142812.jpg"/></div><br>
 Now we list all the papers we have collected. Summarys is updating.
 <br>
+<br>
+
+## Proposed Architecture or Method of Paper
+
+<br>
+
 
 ## ISCA 2015
 <table>
