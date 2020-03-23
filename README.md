@@ -23,16 +23,59 @@ And this figure below summarys the scene accelerators supposed to be used at.
 <br>
 
 ## Proposed Architecture or Method of Paper<br>
-
+<!--
 <table>
   <tr>
-    <th text-align="center">
     <th text-align="center">Archs or Methods
     <th text-align="center">Paper(link with origin text)
     <th text-align="center">Our Summary
   </tr>
+  <tr>
+    <th text-align="center">Cambricon
+    <th text-align="center">[Cambricon: An Instruction Set Architecture for Neural Networks](https://ieeexplore.ieee.org/document/7551409)
+    <th text-align="center">[Our Summary](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx)
+  </tr>
+  <tr>
+    <th text-align="center">RANA
+    <th text-align="center">[RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839)
+    <th text-align="center">[Our Summary](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx)
+  </tr>
 </table>
 <br>
+-->
+
+|  Archs or Methods   | Paper(link with origin text)  | Summarys |
+|  ----  | ----  | ----  |
+| Cambricon  | [Cambricon: An Instruction Set Architecture for Neural Networks](https://ieeexplore.ieee.org/document/7551409) | [Available](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx) |
+| RANA  | [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839) | [Available](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx) |
+
+
+
+
+## 2_Proposed Architecture or Method of Paper<br>
+
+<!--
+<table>
+  <tr>
+    <th text-align="center">Archs or Methods
+    <th text-align="center">Paper Name(link with summary)
+  </tr>
+  <tr>
+    <th text-align="center">Cambricon
+    <th text-align="center">[Cambricon: An Instruction Set Architecture for Neural Networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx)
+  </tr>
+  <tr>
+    <th text-align="center">RANA
+    <th text-align="center">[RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx)
+  </tr>
+</table>
+<br>
+-->
+
+|  Archs or Methods   | Paper Name(link with our summary)  |
+|  ----  | ----  |
+| Cambricon | [Cambricon: An Instruction Set Architecture for Neural Networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx) |
+| RANA | [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx) |
 
 <br>
 Now we list all the papers we have collected. Summarys is updating.<br>
