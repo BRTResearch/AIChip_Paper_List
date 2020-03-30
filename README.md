@@ -84,7 +84,6 @@ And this figure below summarys the scene accelerators supposed to be used at.
 | Minerva | [Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators ](about:blank) |
 | Eyeriss | [Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks ](about:blank) |
 | Neurocube | [Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory ](about:blank) |
-| Cambricon | [Cambricon: An Instruction Set Architecture for Neural Networks ](about:blank) |
 | Graph Analytics Accelerators  | [Energy Efficient Architecture for Graph Analytics Accelerators ](about:blank) |
 | Markov Accelerator | [Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units ](about:blank) |
 | Cloud-Scale DNN Processor | [A Configurable Cloud-Scale DNN Processor for Real-Time AI ](about:blank) |
@@ -94,7 +93,6 @@ And this figure below summarys the scene accelerators supposed to be used at.
 | Flexon | [Flexon: A Flexible Digital Neuron for Efficient Spiking Neural Network Simulations ](about:blank) |
 | Space-Time Algebra | [Space-Time Algebra: A Model for Neocortical Computation ](about:blank) |
 | A New RSU-G | [Architecting a Stochastic Computing Unit with Molecular Optical Devices ](about:blank) |
-| RANA | [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM ](about:blank) |
 | Neural Cache | [Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks ](about:blank) |
 | RoboX | [RoboX: An End-to-End Solution to Accelerate Autonomous Control in Robotics ](about:blank) |
 | EVA2 | [EVA2: Exploiting Temporal Redundancy in Live Computer Vision ](about:blank) |
