@@ -76,6 +76,58 @@ And this figure below summarys the scene accelerators supposed to be used at.
 |  ----  | ----  |
 | Cambricon | [Cambricon: An Instruction Set Architecture for Neural Networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx) |
 | RANA | [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx) |
+| Cnvlutin | [Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing ](about:blank) |
+| ISAAC | [ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars ](about:blank) |
+| PRIME | [PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory](about:blank) |
+| EIE | [EIE: Efficient Inference Engine on Compressed Deep Neural Network](about:blank) |
+| RedEye | [RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile ](about:blank) |
+| Minerva | [Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators ](about:blank) |
+| Eyeriss | [Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks ](about:blank) |
+| Neurocube | [Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory ](about:blank) |
+| Cambricon | [Cambricon: An Instruction Set Architecture for Neural Networks ](about:blank) |
+| Graph Analytics Accelerators  | [Energy Efficient Architecture for Graph Analytics Accelerators ](about:blank) |
+| Markov Accelerator | [Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units ](about:blank) |
+| Cloud-Scale DNN Processor | [A Configurable Cloud-Scale DNN Processor for Real-Time AI ](about:blank) |
+| PROMISE | [PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine- Learning Algorithms ](about:blank) |
+| DNN Computation Reuse  | [Computation Reuse in DNNs by Exploiting Input Similarity ](about:blank) |
+| GenAx | [GenAx: A Genome Sequencing Accelerator ](about:blank) |
+| Flexon | [Flexon: A Flexible Digital Neuron for Efficient Spiking Neural Network Simulations ](about:blank) |
+| Space-Time Algebra | [Space-Time Algebra: A Model for Neocortical Computation ](about:blank) |
+| A New RSU-G | [Architecting a Stochastic Computing Unit with Molecular Optical Devices ](about:blank) |
+| RANA | [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM ](about:blank) |
+| Neural Cache | [Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks ](about:blank) |
+| RoboX | [RoboX: An End-to-End Solution to Accelerate Autonomous Control in Robotics ](about:blank) |
+| EVA2 | [EVA2: Exploiting Temporal Redundancy in Live Computer Vision ](about:blank) |
+| Euphrates | [Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision ](about:blank) |
+| GANAX | [GANAX: A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks](about:blank) |
+| SnaPEA | [SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks](about:blank) |
+| UCNN | [UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition ](about:blank) |
+| Outlier-Aware Neural Network Accelerator | [Energy-Efficient Neural Network Accelerator Based on Outlier-Aware Low-Precision Computation](about:blank) |
+| USPE | [Prediction Based Execution on Deep Neural Networks](about:blank) |
+| Bit Fusion | [Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network](about:blank) |
+| Gist | [Gist: Efficient Data Encoding for Deep Neural Network Training ](about:blank) |
+| DNN pruning with Viterbi search | [The Dark Side of DNN Pruning ](about:blank) |
+| ShiDianNao | [ShiDianNao_ shifting vision processing closer to the sensor](about:blank) |
+| TPU | [In-Datacenter Performance Analysis of a Tensor Processing Unit](about:blank) |
+| Multi-CLP (approach) | [Maximizing CNN Accelerator Efficiency Through Resource Partitioning](about:blank) |
+| ScaleDeep | [ScaleDeep_ A Scalable Compute Architecture for Learning and Evaluating Deep Networks](about:blank) |
+| Scalpel | [Scalpel_ Customizing DNN Pruning to the Underlying Hardware Parallelism](about:blank) |
+| SCNN | [SCNN_ An Accelerator for Compressed-sparse Convolutional Neural Networks](about:blank) |
+| Softbrain | [Stream-Dataflow Acceleration](about:blank) |
+| DMGC (model) | [Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent](about:blank) |
+| TSVA | [3D-based video recognition acceleration by leveraging temporal locality](about:blank) |
+| stochastic-computing deep learning framework using Adiabatic Quantum-Flux-Parametron superconducting technology | [A stochastic-computing based deep learning framework using adiabatic quantum-flux-parametron superconducting technology Share on](about:blank) |
+| iSwitch | [Accelerating distributed reinforcement learning with in-switch computing](about:blank) |
+| Cambricon-F | [Cambricon-F_ machine learning computers with fractal von neumann architecture](about:blank) |
+| Eager Pruning (system) | [Eager pruning_ algorithm and architecture support for fast training of deep neural networks](about:blank) |
+| FloatPIM (system) | [FloatPIM_ in-memory acceleration of deep neural network training with high precision](about:blank) |
+| Laconic | [Laconic deep learning inference acceleration](about:blank) |
+| None( this paper only put out a comparision) | [Master of none acceleration_ a comparison of accelerator architectures for analytical query processing](about:blank) |
+| MnnFast | [MnnFast_ a fast and scalable system architecture for memory-augmented neural networks](about:blank) |
+| Sparse ReRAM Engine (SRE) | [Sparse ReRAM engine_ joint exploration of activation and weight sparsity in compressed neural networks](about:blank) |
+| TIE | [TIE_ energy-efficient tensor train-based inference engine for deep neural network Share on](about:blank) |
+
+
 
 <br>
 Now we list all the papers we have collected. Summarys is updating.<br>
