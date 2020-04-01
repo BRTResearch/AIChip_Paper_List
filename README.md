@@ -1,10 +1,10 @@
 # Table of Contents
 
 
-[About This Project](# About This Project)
-[Some Statistics of the Papers](# Some Statistics of the Papers)
-[The Archs or Methods Listing of Papers](# The Archs or Methods Listing of Papers)
-[The Chronological Listing of Papers](# The Chronological Listing of Papers)
+ - [About This Project](#about-this-project)
+ - [Some Statistics of the Papers](#some-statistics-of-the-papers)
+ - [The Archs or Methods Listing of Papers](#the-archs-or-methods-listing-of-papers)
+ - [The Chronological Listing of Papers](#the-chronological-listing-of-papers)
 
 
 # About This Project
@@ -34,7 +34,6 @@ And this figure below summarys the scene accelerators supposed to be used at.
 
 <br>
 
-## Proposed Architecture or Method of Paper<br>
 <!--
 <table>
   <tr>
@@ -55,12 +54,13 @@ And this figure below summarys the scene accelerators supposed to be used at.
 </table>
 <br>
 -->
-
+<!--
 |  Archs or Methods   | Paper(link with origin text)  | Summarys |
 |  ----  | ----  | ----  |
 | Cambricon  | [Cambricon: An Instruction Set Architecture for Neural Networks](https://ieeexplore.ieee.org/document/7551409) | [Available](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx) |
 | RANA  | [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839) | [Available](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx) |
 
+-->
 
 
 
