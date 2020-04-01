@@ -1,11 +1,11 @@
-#Table of Contents
+# Table of Contents
 
-<!-- GFM-TOC -->
+
 [About This Project](# About This Project)
-[Some Statistics of the Papers](#Some Statistics of the Papers)
-[The Archs or Methods Listing of Papers](#The Archs or Methods Listing of Papers)
-[The Chronological Listing of Papers](#The Chronological Listing of Papers)
-<!-- GFM-TOC -->
+[Some Statistics of the Papers](# Some Statistics of the Papers)
+[The Archs or Methods Listing of Papers](# The Archs or Methods Listing of Papers)
+[The Chronological Listing of Papers](# The Chronological Listing of Papers)
+
 
 # About This Project
 
@@ -139,7 +139,7 @@ And this figure below summarys the scene accelerators supposed to be used at.
 
 <br><br>
 
-#The Chronological Listing of Papers
+# The Chronological Listing of Papers
 
 <br>
 Now we list all the papers we have collected. Summarys is updating.<br>
