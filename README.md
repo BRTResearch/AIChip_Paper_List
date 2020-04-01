@@ -1,7 +1,19 @@
+#Table of Contents
+
+<!-- GFM-TOC -->
+[About This Project](# About This Project)
+[Some Statistics of the Papers](#Some Statistics of the Papers)
+[The Archs or Methods Listing of Papers](#The Archs or Methods Listing of Papers)
+[The Chronological Listing of Papers](#The Chronological Listing of Papers)
+<!-- GFM-TOC -->
+
 # About This Project
+
 This project is a collection project. Its final aim is to collect and anylyze all AI-related papers in ISCA, MICRO and HPCA for readers who are in research or be interested in AI, especially the AI accelerators. We now have collected AI-related papers in ISCA from 2015 to 2019. The papers will be all listed below and we are trying to classify them by some tech points. And for some papers, you can find our smmary in __"/Summarys/#year_of_the_paper/"__
 We are glad to receive your suggestions of anything about this project!
-# Analyze of AI papers of ISCA(2015-2019)
+
+# Some Statistics of the Papers
+
 We now have just done some basic analysis on these papers, trying to answer the trend of AI papers on ISCA. Here are two figures.<br>  
 <div align="center"><img width="600" src="uploads/QQ截图20200313174817.jpg"/></div><br>
 The trend of AI is generaly increasing. But now it slightly slow down in 2019. And we can find out that year 2018 takes almost half of the counts, implicating the hottest year of AI accelerators.
@@ -52,7 +64,7 @@ And this figure below summarys the scene accelerators supposed to be used at.
 
 
 
-## 2_Proposed Architecture or Method of Paper<br>
+## The Archs or Methods Listing of Papers<br>
 
 <!--
 <table>
@@ -125,7 +137,9 @@ And this figure below summarys the scene accelerators supposed to be used at.
 | UCNN | [UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/UCNN%20Exploiting%20Computational%20Reuse%20in%20Deep%20Neural%20Networks%20via%20Weight%20Repetition.docx) |
 | DMGC (model) | [Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent](about:blank) |
 
+<br><br>
 
+#The Chronological Listing of Papers
 
 <br>
 Now we list all the papers we have collected. Summarys is updating.<br>
