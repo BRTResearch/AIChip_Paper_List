@@ -13,26 +13,28 @@ This project is a collection project. Its final aim is to collect and anylyze al
 We are glad to receive your suggestions of anything about this project!
 
 # Some Statistics of the Papers
-
-We now have just done some basic analysis on these papers, trying to answer the trend of AI papers on ISCA. Here are two figures.<br>  
+## 1.	The yearly paper count (now only based on ISCA 2015-2019 statistics)
+  
 <div align="center"><img width="600" src="uploads/QQ截图20200313174817.jpg"/></div><br>
 The trend of AI is generaly increasing. But now it slightly slow down in 2019. And we can find out that year 2018 takes almost half of the counts, implicating the hottest year of AI accelerators.
 <br>
+
+## 2.	The countries and regions that contribute (now only based on ISCA 2015-2019 statistics)
+
 <div align="center"><img width="600" src="uploads/QQ截图20200313174833.jpg"/></div><br>
 America is definitely the origin area of most papers. China and North Korea are still two chasing character in AI research though they have done somg terrific ahievements.
 <br>
 
+<!--
 # Tech Poins Summary
-
 The figure below summarys how every architechture proposed was implemented to take the experiments.
 <br>
 <div align="center"><img width="600" src="uploads/QQ截图20200316142634.jpg"/></div><br>
 And this figure below summarys the scene accelerators supposed to be used at.
 <br>
 <div align="center"><img width="600" src="uploads/QQ截图20200316142812.jpg"/></div><br>
-
-
 <br>
+-->
 
 <!--
 <table>
@@ -84,7 +86,7 @@ And this figure below summarys the scene accelerators supposed to be used at.
 <br>
 -->
 
-|  Archs or Methods   | Paper Name(link with our summary)  |
+|  Archs or Methods   | Paper Name(linkable means summarized)  |
 |  ----  | ----  |
 | TSVA | [3D-based video recognition acceleration by leveraging temporal locality](about:blank) |
 | Cloud-Scale DNN Processor | [A Configurable Cloud-Scale DNN Processor for Real-Time AI ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/A%20Configurable%20Cloud-Scale%20DNN%20Processor%20for%20Real-Time%20AI.docx) |
