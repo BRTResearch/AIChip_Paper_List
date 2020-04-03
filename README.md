@@ -23,6 +23,21 @@ The trend of AI is generaly increasing. But now it slightly slow down in 2019. A
 America is definitely the origin area of most papers. China and North Korea are still two chasing character in AI research though they have done somg terrific ahievements.
 <br>
 
+## 3. The most appeared authors and their information (now only based on ISCA 2015-2019 statistics)
+
+|  Author  |	 Counts of paper  | 	Region  | 	Lab or Corp.  |
+| ----  |  ----  |  ----  | ----  |
+| Hadi Esmaeilzadeh |	4	| US	| Alternative Computing Technologies (ACT) Laboratory, University of California |
+| Mingcong Song	| 3 |	US	| Intelligent Design of Efficient Architectures Laboratory (IDEAL), University of Florida |
+| Reetuparna Das |	3	| US	| EECS department, University of Michigan |
+| Tao Li |	3 |	US |	Intelligent Design of Efficient Architectures Laboratory (IDEAL), University of Florida |
+| Tianshi Chen |	3 | China	| Cambricon Technologies Corporation Limited(寒武纪科技) |
+| Yunji Chen |	3 | China	| Institute of Computing Technology, Chinese Academy of Sciences |
+| Zidong Du |	3 | China	| Institute of Computing Technology, Chinese Academy of Sciences |
+
+<br>
+
+
 <!--
 # Tech Poins Summary
 The figure below summarys how every architechture proposed was implemented to take the experiments.
