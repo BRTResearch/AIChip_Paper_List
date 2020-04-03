@@ -25,6 +25,10 @@ America is definitely the origin area of most papers. China and North Korea are 
 
 ## 3. The most appeared authors and their information (now only based on ISCA 2015-2019 statistics)
 
+<br>
+Here are the names appear most frequently on the collected papers. We collect thier public information and list below to help you find the leader researchers in this area. 
+<br>
+
 |  Author  |	 Counts of paper  | 	Region  | 	Lab or Corp.  |
 | ----  |  ----  |  ----  | ----  |
 | Hadi Esmaeilzadeh |	4	| US	| Alternative Computing Technologies (ACT) Laboratory, University of California |
@@ -152,7 +156,7 @@ And this figure below summarys the scene accelerators supposed to be used at.
 # The Chronological Listing of Papers
 
 <br>
-Now we list all the papers we have collected. Summarys is updating.<br>
+Now we list all the papers we have collected. If it is linkable, it link to the summary of the paper and the summaries are still updating.<br>
 
 ## ISCA 2015
 <table>
