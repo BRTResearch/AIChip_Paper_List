@@ -28,15 +28,15 @@ America is definitely the origin area of most papers. China and North Korea are 
 <br>
 Here are the names appear most frequently on the collected papers. We collect thier public information and list below to help you find the leader researchers in this area. <br>
 
-|  Author  |	 Counts of paper  | 	Region  | 	Lab or Corp.  |
-| ----  |  ----  |  ----  | ----  |
-| Hadi Esmaeilzadeh |	4	| US	| Alternative Computing Technologies (ACT) Laboratory, University of California |
-| Mingcong Song	| 3 |	US	| Intelligent Design of Efficient Architectures Laboratory (IDEAL), University of Florida |
-| Reetuparna Das |	3	| US	| EECS department, University of Michigan |
-| Tao Li |	3 |	US |	Intelligent Design of Efficient Architectures Laboratory (IDEAL), University of Florida |
-| Tianshi Chen |	3 | China	| Cambricon Technologies Corporation Limited(寒武纪科技) |
-| Yunji Chen |	3 | China	| Institute of Computing Technology, Chinese Academy of Sciences |
-| Zidong Du |	3 | China	| Institute of Computing Technology, Chinese Academy of Sciences |
+|  Rank  |  Author  |	 Counts of paper  | 	Region  | 	Lab or Corp.  |
+|  ----  | ----  |  ----  |  ----  | ----  |
+| 1 | Hadi Esmaeilzadeh |	4	| US	| Alternative Computing Technologies (ACT) Laboratory, University of California |
+| 2 | Mingcong Song	| 3 |	US	| Intelligent Design of Efficient Architectures Laboratory (IDEAL), University of Florida |
+| 2 | Reetuparna Das |	3	| US	| EECS department, University of Michigan |
+| 2 | Tao Li |	3 |	US |	Intelligent Design of Efficient Architectures Laboratory (IDEAL), University of Florida |
+| 2 | Tianshi Chen |	3 | China	| Cambricon Technologies Corporation Limited(寒武纪科技) |
+| 2 | Yunji Chen |	3 | China	| Institute of Computing Technology, Chinese Academy of Sciences |
+| 2 | Zidong Du |	3 | China	| Institute of Computing Technology, Chinese Academy of Sciences |
 
 <br>
 
