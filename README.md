@@ -23,7 +23,7 @@ The trend of AI is generaly increasing. But now it slightly slow down in 2019. A
 America is definitely the origin area of most papers. China and North Korea are still two chasing character in AI research though they have done somg terrific ahievements.
 <br>
 
-## 3. The most appeared authors and their information (now only based on ISCA 2015-2019 statistics)
+## 3. Top researchers and their information (now only based on ISCA 2015-2019 statistics)
 
 <br>
 Here are the names appear most frequently on the collected papers. We collect thier public information and list below to help you find the leader researchers in this area. <br>
