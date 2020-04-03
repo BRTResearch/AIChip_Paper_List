@@ -3,14 +3,12 @@
 
  - [About This Project](#about-this-project)
  - [Some Statistics of the Papers](#some-statistics-of-the-papers)
- - [The Archs or Methods Listing of Papers](#the-archs-or-methods-listing-of-papers)
  - [The Chronological Listing of Papers](#the-chronological-listing-of-papers)
 
 
 # About This Project
 
-This project is a collection project. Its final aim is to collect and anylyze all AI-related papers in ISCA, MICRO and HPCA for readers who are in research or be interested in AI, especially the AI accelerators. We now have collected AI-related papers in ISCA from 2015 to 2019. The papers will be all listed below and we are trying to classify them by some tech points. And for some papers, you can find our smmary in __"/Summarys/#year_of_the_paper/"__
-We are glad to receive your suggestions of anything about this project!
+This project aims to collect and summarize the AI-related papers for readers who are interested in AI research in academia. We plan to collect all the AI-related papers in the top-tier architecture conferences such as ISCA, MICRO and HPCA in recent years. Now, we have collected them in ISCA from 2015 to 2019 with some basic analysis. These papers will be listed below and you can find our brief summaries in "/Summarys/#year_of_the_paper/". We are glad to have your suggestions of anything about this project!
 
 # Some Statistics of the Papers
 ## 1.	The yearly paper count (now only based on ISCA 2015-2019 statistics)
@@ -64,11 +62,8 @@ And this figure below summarys the scene accelerators supposed to be used at.
 
 -->
 
-
-
-## The Archs or Methods Listing of Papers<br>
-
 <!--
+## The Archs or Methods Listing of Papers<br>
 <table>
   <tr>
     <th text-align="center">Archs or Methods
@@ -84,8 +79,6 @@ And this figure below summarys the scene accelerators supposed to be used at.
   </tr>
 </table>
 <br>
--->
-
 |  Archs or Methods   | Paper Name(linkable means summarized)  |
 |  ----  | ----  |
 | TSVA | [3D-based video recognition acceleration by leveraging temporal locality](about:blank) |
@@ -138,8 +131,8 @@ And this figure below summarys the scene accelerators supposed to be used at.
 | TIE | [TIE_ energy-efficient tensor train-based inference engine for deep neural network Share on](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/TIE%20Energy-efficient%20Tensor%20Train-based%20Inference%20Engine%20for%20Deep%20Neural%20Network.docx) |
 | UCNN | [UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/UCNN%20Exploiting%20Computational%20Reuse%20in%20Deep%20Neural%20Networks%20via%20Weight%20Repetition.docx) |
 | DMGC (model) | [Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent](about:blank) |
-
 <br><br>
+-->
 
 # The Chronological Listing of Papers
 
@@ -157,7 +150,10 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">1
+    <!--
     <th text-align="left">ShiDianNao: Shifting Vision Processing Closer to the Sensor
+    -->
+    <td><a href="Summarys/2015/ShiDianNao Shifting Vision Processing Closer to the Sensor.docx">ShiDianNao: Shifting Vision Processing Closer to the Sensor</a></td>
     <th text-align="left">Zidong Du
     <th text-align="center">China
     <th text-align="left">ICT
@@ -176,7 +172,10 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">1
+    <!--
     <th text-align="left">Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing 
+    -->
+    <td><a href="Summarys/2016/Cnvlutin Ineffectual-Neuron-Free Deep Neural Network Computing .docx">Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing</a></td>
     <th text-align="left">Jorge Albericio, Tayler Hetheringto
     <th text-align="center">Canada
     <th text-align="left">University of Toronto, University of British Columbia
@@ -211,7 +210,10 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">6
+    <!--
     <th text-align="left">Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators 
+    -->
+    <td><a href="Summarys/2016/Minerva Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators .docx">Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators</a></td>
     <th text-align="left">Brandon Reagen, David Brooks
     <th text-align="center">US
     <th text-align="left">Harvard University 
@@ -225,28 +227,40 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">8
+    <!--
     <th text-align="left">Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory 
+    -->
+    <td><a href="Summarys/2016/Neurocube A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.docx">Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory</a></td>
     <th text-align="left">Duckhwan Kim, Saibal Mukhopadhyay
     <th text-align="center">US
     <th text-align="left">Georgia Institute of Technology 
   </tr>
   <tr>
     <th text-align="center">9
+    <!--
     <th text-align="left">Cambricon: An Instruction Set Architecture for Neural Networks 
+    -->
+    <td><a href="Summarys/2016/Cambricon An Instruction Set Architecture for Neural Networks.docx">Cambricon: An Instruction Set Architecture for Neural Networks</a></td>
     <th text-align="left">Shaoli Liu, Tianshi Chen
     <th text-align="center">China
     <th text-align="left">CAS, Cambricon Ltd.
   </tr>
   <tr>
     <th text-align="center">10
+    <!--
     <th text-align="left">Energy Efficient Architecture for Graph Analytics Accelerators 
+    -->
+    <td><a href="Summarys/2016/Energy Efficient Architecture for Graph Analytics Accelerators.docx">Energy Efficient Architecture for Graph Analytics Accelerators</a></td>
     <th text-align="left">Muhammet Mustafa Ozdal, Ozcan Ozturk
     <th text-align="center">Turkey
     <th text-align="left">Bilkent University
   </tr>
   <tr>
     <th text-align="center">11
+    <!--
     <th text-align="left">Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units 
+    -->
+    <td><a href="Summarys/2016/Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units.docx">Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units</a></td>
     <th text-align="left">Siyang Wang, Alvin R. Lieberk
     <th text-align="center">US
     <th text-align="left">Duke University
@@ -293,7 +307,10 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">5
+    <!--
     <th text-align="left">SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks
+    -->
+    <td><a href="Summarys/2017/SCNN An Accelerator for Compressed-sparse Convolutional Neural Networks.docx">SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks</a></td>
     <th text-align="left">Angshuman Parashar, William J. Dally
     <th text-align="center">US
     <th text-align="left">NVIDIA, MIT, UC-Berkeley, Stanford University
@@ -326,7 +343,10 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">1
+    <!--
     <th text-align="left">A Configurable Cloud-Scale DNN Processor for Real-Time AI 
+    -->
+    <td><a href="Summarys/2018/A Configurable Cloud-Scale DNN Processor for Real-Time AI.docx">A Configurable Cloud-Scale DNN Processor for Real-Time AI</a></td>
     <th text-align="left">Jeremy Fowers, Doug Burger
     <th text-align="center">US
     <th text-align="left">Microsoft 
@@ -347,7 +367,10 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">4
+    <!-- 
     <th text-align="left">GenAx: A Genome Sequencing Accelerator 
+    -->
+    <td><a href="Summarys/2018/GANAX A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks.docx">GenAx: A Genome Sequencing Accelerator</a></td>
     <th text-align="left">Daichi Fujiki, Satish Narayanasamy
     <th text-align="center">US
     <th text-align="left">University of Michigan 
@@ -375,7 +398,10 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">8
+    <!--
     <th text-align="left">RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM 
+    -->
+    <td><a href="Summarys/2018/RANA Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM .docx">RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM</a></td>
     <th text-align="left">Fengbin Tu, Shaojun Wei
     <th text-align="center">China
     <th text-align="left">Tsinghua University
@@ -403,35 +429,50 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">12
+    <!--
     <th text-align="left">Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision 
+    -->
+    <td><a href="Summarys/2018/Euphrates Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision.docx">Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision</a></td>
     <th text-align="left">Yuhao Zhu, Paul Whatmough
     <th text-align="center">US
     <th text-align="left">University of Rochetster, ARM Research
   </tr>
   <tr>
     <th text-align="center">13
+    <!--
     <th text-align="left">GANAX: A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks
+    -->
+    <td><a href="Summarys/2018/GANAX A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks.docx">GANAX: A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks</a></td>
     <th text-align="left">Amir Yazdanbakhsh, Hadi Esmaeilzadeh
     <th text-align="center">US
     <th text-align="left">Georgia Institute of Technology, UC San Diego, Qualcomm Technologies, Inc.
   </tr>
   <tr>
     <th text-align="center">14
+    <!-- 
     <th text-align="left">SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks
+    -->
+    <td><a href="Summarys/2018/SnaPEA Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.docx">SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks</a></td>
     <th text-align="left">Vahideh Akhlaghi, Hadi Esmaeilzadeh
     <th text-align="center">US
     <th text-align="left">Georgia Institute of Technology, UC San Diego, Qualcomm Technologies, Inc.
   </tr>
   <tr>
     <th text-align="center">15
+    <!-- 
     <th text-align="left">UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition 
+    -->
+    <td><a href="Summarys/2018/UCNN Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.docx">UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition</a></td>
     <th text-align="left">Kartik Hegde, Christopher W. Fletche
     <th text-align="center">US
     <th text-align="left">University of Illinois at Urbana-Champaign,  NVIDIA
   </tr>
   <tr>
     <th text-align="center">16
+    <!--
     <th text-align="left">Energy-Efficient Neural Network Accelerator Based on Outlier-Aware Low-Precision Computation
+    -->
+    <td><a href="Summarys/2018/Energy-efficient Neural Network Accelerator Based on Outlier-aware Low-precision Computation.docx">Energy-Efficient Neural Network Accelerator Based on Outlier-Aware Low-Precision Computation</a></td>
     <th text-align="left">Eunhyeok Park, Sungjoo Yoo 
     <th text-align="center">North Korea
     <th text-align="left">Seoul National University 
@@ -492,63 +533,90 @@ Now we list all the papers we have collected. Summarys is updating.<br>
   </tr>
   <tr>
     <th text-align="center">3
+    <!--
     <th text-align="left">Accelerating Distributed Reinforcement Learning with In-Switch Computing
+    -->
+    <td><a href="Summarys/2019/Accelerating Distributed Reinforcement Learning with In-Switch Computing.docx">Accelerating Distributed Reinforcement Learning with In-Switch Computing</a></td>
     <th text-align="left">Youjie Li, Jian Huang
     <th text-align="center">US
     <th text-align="left">UIUC
   </tr>
   <tr>
     <th text-align="center">4
+    <!--
     <th text-align="left">Eager Pruning: Algorithm and Architecture Support for Fast Training of Deep Neural Networks
+    -->
+    <td><a href="Summarys/2019/Eager Pruning Algorithm and Architecture Support for Fast Training of Deep Neural Networks.docx">Eager Pruning: Algorithm and Architecture Support for Fast Training of Deep Neural Networks</a></td>
     <th text-align="left">Jiaqi Zhang, Tao Li
     <th text-align="center">US
     <th text-align="left">University of Florida
   </tr>
   <tr>
     <th text-align="center">5
+    <!--
     <th text-align="left">Laconic Deep Learning Inference Acceleration
+    -->
+    <td><a href="Summarys/2019/Laconic Deep Learning Inference Acceleration.docx">Laconic Deep Learning Inference Acceleration</a></td>
     <th text-align="left">Sayeh Sharify, Andreas Moshovos
     <th text-align="center">Canada
     <th text-align="left">University of Toronto
   </tr>
   <tr>
     <th text-align="center">6
+    <!--
     <th text-align="left">MnnFast: A Fast and Scalable System Architecture for Memory-Augmented Neural Networks
+    -->
+    <td><a href="Summarys/2019/MnnFast A Fast and Scalable System Architecture for Memory-Augmented Neural Network.docx">MnnFast: A Fast and Scalable System Architecture for Memory-Augmented Neural Networks</a></td>
     <th text-align="left">Hanhwi Jang, Jangwoo Kim
     <th text-align="center">North Korea
     <th text-align="left">POSTECH, Seoul National University
   </tr>
   <tr>
     <th text-align="center">7
+    <!--
     <th text-align="left">Sparse ReRAM Engine: Joint Exploration of Activation and Weight Sparsity in Compressed Neural Networks
+    -->
+    <td><a href="Summarys/2019/Sparse ReRAM Engine Joint Exploration of Activation and Weight Sparsity in Compressed Neural Networks.docx">Sparse ReRAM Engine: Joint Exploration of Activation and Weight Sparsity in Compressed Neural Networks</a></td>
     <th text-align="left">Tzu-Hsien Yang
     <th text-align="center">China Twain
     <th text-align="left">National Taiwan University, Academia Sinica, Macronix International Co., Ltd.
   </tr>
   <tr>
     <th text-align="center">8
+    <!--
     <th text-align="left">TIE: Energy-efficient Tensor Train-based Inference Engine for Deep Neural Network
+    -->
+    <td><a href="Summarys/2019/TIE Energy-efficient Tensor Train-based Inference Engine for Deep Neural Network.docx">TIE: Energy-efficient Tensor Train-based Inference Engine for Deep Neural Network</a></td>
     <th text-align="left">Chunhua Deng, Bo Yuan
     <th text-align="center">US
     <th text-align="left">Rutgers University
   </tr>
   <tr>
     <th text-align="center">9
+    <!--
     <th text-align="left">FloatPIM_ in-memory acceleration of deep neural network training with high precision
+    -->
+    <td><a href="Summarys/2019/FloatPIM in-memory acceleration of deep neural network training with high precision.docx">FloatPIM_ in-memory acceleration of deep neural network training with high precision</a></td>
     <th text-align="left">Mohsen Imani, Tajana Rosing
     <th text-align="center">US
     <th text-align="left">UC San Diego
   </tr>
   <tr>
     <th text-align="center">10
+    <!--
     <th text-align="left">Cambricon-F_ machine learning computers with fractal von neumann architecture
+    -->
+    <td><a href="Summarys/2019/Cambricon-F Machine Learning Computers with Fractal von Neumann Architecture.docx">Cambricon-F_ machine learning computers with fractal von neumann architecture</a></td>
     <th text-align="left">Yongwei Zhao, Yunji Chen
     <th text-align="center">China
     <th text-align="left">ICT, Cambricon
   </tr>
   <tr>
     <th text-align="center">11
+    <!--
     <th text-align="left">Master of none acceleration_ a comparison of accelerator architectures for analytical query processing
+    -->
+    <td><a href="Summarys/2019/Master of None Acceleration A Comparison of Accelerator Architectures for Analytical Query Processing.docx">Master of none acceleration_ a comparison of accelerator architectures for analytical query processing</a></td>
     <th text-align="left">Andrea Lottarini, Martha A. Kim
     <th text-align="center">US
     <th text-align="left">Google, Columbia University
