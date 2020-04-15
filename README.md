@@ -52,112 +52,14 @@ And this figure below summarys the scene accelerators supposed to be used at.
 <br>
 -->
 
-<!--
-<table>
-  <tr>
-    <th text-align="center">Archs or Methods
-    <th text-align="center">Paper(link with origin text)
-    <th text-align="center">Our Summary
-  </tr>
-  <tr>
-    <th text-align="center">Cambricon
-    <th text-align="center">[Cambricon: An Instruction Set Architecture for Neural Networks](https://ieeexplore.ieee.org/document/7551409)
-    <th text-align="center">[Our Summary](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx)
-  </tr>
-  <tr>
-    <th text-align="center">RANA
-    <th text-align="center">[RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839)
-    <th text-align="center">[Our Summary](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx)
-  </tr>
-</table>
-<br>
--->
-<!--
-|  Archs or Methods   | Paper(link with origin text)  | Summarys |
-|  ----  | ----  | ----  |
-| Cambricon  | [Cambricon: An Instruction Set Architecture for Neural Networks](https://ieeexplore.ieee.org/document/7551409) | [Available](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx) |
-| RANA  | [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839) | [Available](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx) |
-
--->
-
-<!--
-## The Archs or Methods Listing of Papers<br>
-<table>
-  <tr>
-    <th text-align="center">Archs or Methods
-    <th text-align="center">Paper Name(link with summary)
-  </tr>
-  <tr>
-    <th text-align="center">Cambricon
-    <th text-align="center">[Cambricon: An Instruction Set Architecture for Neural Networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx)
-  </tr>
-  <tr>
-    <th text-align="center">RANA
-    <th text-align="center">[RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx)
-  </tr>
-</table>
-<br>
-|  Archs or Methods   | Paper Name(linkable means summarized)  |
-|  ----  | ----  |
-| TSVA | [3D-based video recognition acceleration by leveraging temporal locality](about:blank) |
-| Cloud-Scale DNN Processor | [A Configurable Cloud-Scale DNN Processor for Real-Time AI ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/A%20Configurable%20Cloud-Scale%20DNN%20Processor%20for%20Real-Time%20AI.docx) |
-| Architecture of Ruizhe Cai and Ao Ren | [A stochastic-computing based deep learning framework using adiabatic quantum-flux-parametron superconducting technology Share on](about:blank) |
-| iSwitch | [Accelerating distributed reinforcement learning with in-switch computing](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/Accelerating%20Distributed%20Reinforcement%20Learning%20with%20In-Switch%20Computing.docx) |
-| Markov Accelerator | [Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Accelerating%20Markov%20Random%20Field%20Inference%20Using%20Molecular%20Optical%20Gibbs%20Sampling%20Units.docx) |
-| A New RSU-G | [Architecting a Stochastic Computing Unit with Molecular Optical Devices ](about:blank) |
-| Bit Fusion | [Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network](about:blank) |
-| Cambricon | [Cambricon: An Instruction Set Architecture for Neural Networks ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.docx) |
-| Cambricon-F | [Cambricon-F_ machine learning computers with fractal von neumann architecture](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/Cambricon-F%20Machine%20Learning%20Computers%20with%20Fractal%20von%20Neumann%20Architecture.docx) |
-| Cnvlutin | [Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Cnvlutin%20Ineffectual-Neuron-Free%20Deep%20Neural%20Network%20Computing%20.docx) |
-| DNN Computation Reuse  | [Computation Reuse in DNNs by Exploiting Input Similarity ](about:blank) |
-| Eager Pruning (system) | [Eager pruning_ algorithm and architecture support for fast training of deep neural networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/Eager%20Pruning%20Algorithm%20and%20Architecture%20Support%20for%20Fast%20Training%20of%20Deep%20Neural%20Networks.docx) |
-| EIE | [EIE: Efficient Inference Engine on Compressed Deep Neural Network](about:blank) |
-| Graph Analytics Accelerators  | [Energy Efficient Architecture for Graph Analytics Accelerators ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Energy%20Efficient%20Architecture%20for%20Graph%20Analytics%20Accelerators.docx) |
-| Outlier-Aware Neural Network Accelerator | [Energy-Efficient Neural Network Accelerator Based on Outlier-Aware Low-Precision Computation](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/Energy-efficient%20Neural%20Network%20Accelerator%20Based%20on%20Outlier-aware%20Low-precision%20Computation.docx) |
-| Euphrates | [Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/Euphrates%20Algorithm-SoC%20Co-Design%20for%20Low-Power%20Mobile%20Continuous%20Vision.docx) |
-| EVA2 | [EVA2: Exploiting Temporal Redundancy in Live Computer Vision ](about:blank) |
-| Eyeriss | [Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks ](about:blank) |
-| Flexon | [Flexon: A Flexible Digital Neuron for Efficient Spiking Neural Network Simulations ](about:blank) |
-| FloatPIM (system) | [FloatPIM_ in-memory acceleration of deep neural network training with high precision](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/FloatPIM%20in-memory%20acceleration%20of%20deep%20neural%20network%20training%20with%20high%20precision.docx) |
-| GANAX | [GANAX: A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/GANAX%20A%20Unified%20MIMD-SIMD%20Acceleration%20for%20Generative%20Adversarial%20Networks.docx) |
-| GenAx | [GenAx: A Genome Sequencing Accelerator ](about:blank) |
-| Gist | [Gist: Efficient Data Encoding for Deep Neural Network Training ](about:blank) |
-| TPU | [In-Datacenter Performance Analysis of a Tensor Processing Unit](about:blank) |
-| ISAAC | [ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars ](about:blank) |
-| Laconic | [Laconic deep learning inference acceleration](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/Laconic%20Deep%20Learning%20Inference%20Acceleration.docx) |
-| None( this paper only put out a comparision) | [Master of none acceleration_ a comparison of accelerator architectures for analytical query processing](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/Master%20of%20None%20Acceleration%20A%20Comparison%20of%20Accelerator%20Architectures%20for%20Analytical%20Query%20Processing.docx) |
-| Multi-CLP (approach) | [Maximizing CNN Accelerator Efficiency Through Resource Partitioning](about:blank) |
-| Minerva | [Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Minerva%20Enabling%20Low-Power%2C%20Highly-Accurate%20Deep%20Neural%20Network%20Accelerators%20.docx) |
-| MnnFast | [MnnFast_ a fast and scalable system architecture for memory-augmented neural networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/MnnFast%20A%20Fast%20and%20Scalable%20System%20Architecture%20for%20Memory-Augmented%20Neural%20Network.docx) |
-| Neural Cache | [Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks ](about:blank) |
-| Neurocube | [Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2016/Neurocube%20A%20Programmable%20Digital%20Neuromorphic%20Architecture%20with%20High-Density%203D%20Memory.docx) |
-| USPE | [Prediction Based Execution on Deep Neural Networks](about:blank) |
-| PRIME | [PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory](about:blank) |
-| PROMISE | [PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine- Learning Algorithms ](about:blank) |
-| RANA | [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/RANA%20Towards%20Efficient%20Neural%20Acceleration%20with%20Refresh-Optimized%20Embedded%20DRAM%20.docx) |
-| RedEye | [RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile ](about:blank) |
-| RoboX | [RoboX: An End-to-End Solution to Accelerate Autonomous Control in Robotics ](about:blank) |
-| ScaleDeep | [ScaleDeep_ A Scalable Compute Architecture for Learning and Evaluating Deep Networks](about:blank) |
-| Scalpel | [Scalpel_ Customizing DNN Pruning to the Underlying Hardware Parallelism](about:blank) |
-| SCNN | [SCNN_ An Accelerator for Compressed-sparse Convolutional Neural Networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2017/SCNN%20An%20Accelerator%20for%20Compressed-sparse%20Convolutional%20Neural%20Networks.docx) |
-| ShiDianNao | [ShiDianNao_ shifting vision processing closer to the sensor](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2015/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.docx) |
-| SnaPEA | [SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/SnaPEA%20Predictive%20Early%20Activation%20for%20Reducing%20Computation%20in%20Deep%20Convolutional%20Neural%20Networks.docx) |
-| Space-Time Algebra | [Space-Time Algebra: A Model for Neocortical Computation ](about:blank) |
-| Sparse ReRAM Engine (SRE) | [Sparse ReRAM engine_ joint exploration of activation and weight sparsity in compressed neural networks](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/Sparse%20ReRAM%20Engine%20Joint%20Exploration%20of%20Activation%20and%20Weight%20Sparsity%20in%20Compressed%20Neural%20Networks.docx) |
-| Softbrain | [Stream-Dataflow Acceleration](about:blank) |
-| DNN pruning with Viterbi search | [The Dark Side of DNN Pruning ](about:blank) |
-| TIE | [TIE_ energy-efficient tensor train-based inference engine for deep neural network Share on](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2019/TIE%20Energy-efficient%20Tensor%20Train-based%20Inference%20Engine%20for%20Deep%20Neural%20Network.docx) |
-| UCNN | [UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition ](https://github.com/ghzgt/AI_paper_ISCA_test/blob/master/Summarys/2018/UCNN%20Exploiting%20Computational%20Reuse%20in%20Deep%20Neural%20Networks%20via%20Weight%20Repetition.docx) |
-| DMGC (model) | [Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent](about:blank) |
-<br><br>
--->
-
 # The Chronological Listing of Papers
+
 
 <br>
 Now we list all the papers we have collected. If it is linkable, it is linked to the summary of the paper and the summaries are still updating.<br>
 
-## ISCA 2015
+# ISCA 
+## 2015
 <table>
   <tr>
     <th text-align="center">
@@ -179,7 +81,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
 </table>
 <br>
 
-## ISCA 2016
+## 2016
 <table>
   <tr>
     <th text-align="center">
@@ -286,7 +188,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
 </table>
 <br>
 
-## ISCA 2017
+## 2017
 <table>
   <tr>
     <th text-align="center">
@@ -350,7 +252,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
 </table>
 <br>
 
-## ISCA 2018
+## 2018
 <table>
   <tr>
     <th text-align="center">
@@ -526,7 +428,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
 </table>
 <br>
 
-## ISCA 2019
+## 2019
 <table>
   <tr>
     <th text-align="center">
@@ -640,3 +542,1140 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Google, Columbia University
   </tr>
 </table>
+<br>
+
+# ASPLOS
+## 2014
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">CAS, Inria
+  </tr>
+</table>
+<br>
+
+## 2015
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">PuDianNao: A Polyvalent Machine Learning Accelerator.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">CAS, USTC, Inria
+  </tr>
+</table>
+<br>
+
+## 2017
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Stanford University
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Syracuse University, USC, The City College of New York
+  </tr>
+</table>
+<br>
+
+## 2018
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Tsinghua, UCSB
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Georgia Tech
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">VIBNN: Hardware Acceleration of Bayesian Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Syracuse University, USC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Exploiting Dynamical Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Guizhou University, University of Florida
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Potluck: Cross-application Approximate Deduplication for Computation-Intensive Mobile Applications.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Yale
+  </tr>
+</table>
+<br>
+
+## 2019
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">FA3C: FPGA-Accelerated Deep Reinforcement Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Hongik University, SNU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Purdue, UIUC, HP
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">THU, UCSB
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Bit-Tactical: A Software/Hardware Approach to Exploiting Value and Bit Sparsity in Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Toronto, NVIDIA
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">TANGRAM: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Stanford
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Harvard
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">IBM, Kyungpook National University
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">HOP: Heterogeneity-Aware Decentralized Training.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">USC, THU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Astra: Exploiting Predictability to Optimize Deep Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Microsoft
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Northeastern, Syracuse, SUNY, Buffalo, USC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">DeepSigns: An End-to-End Watermarking Framework for Protecting the Ownership of Deep Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCSD
+  </tr>
+</table>
+<br>
+
+## 2020
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Shredder: Learning Noise Distributions to Protect Inference Privacy.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCSD
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">CAS, USC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Stanford, THU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCSB
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Prague: High-Performance Heterogeneity-Aware Asynchronous Decentralized Training.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">USC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">College of William and Mary, Northeastern , USC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Capuchin: Tensor-based GPU Memory Management for Deep Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">HUST, MSRA, USC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">KAIST
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">PKU
+  </tr>
+</table>
+<br>
+
+# MICRO
+## 2014
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">DaDianNao: A Machine-Learning Supercomputer.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">CAS, Inria, Inner Mongolia University
+  </tr>
+</table>
+<br>
+
+## 2016
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">From High-Level Deep Neural Models to FPGAs.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Georgia Institute of Technology, Intel
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">NVIDIA
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Stripes: Bit-Serial Deep Neural Network Computing.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Toronto, University of British Columbia
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Cambricon-X: An Accelerator for Sparse Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Chinese Academy of Sciences
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Tsinghua University, UCSB
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Fused-Layer CNN Accelerators.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Stony Brook University
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Bridging the I/O Performance Gap for Big Data Workloads: A New NVDIMM-based Approach.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">The Hong Kong Polytechnic University, NSF/University of Florida
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">A Patch Memory System For Image Processing and Computer Vision.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">NVIDIA
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Universitat Politecnica de Catalunya
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Perceptron Learning for Reuse Prediction.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">TAMU, Intel Labs
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">A Cloud-Scale Acceleration Architecture.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Microsoft Research
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Reducing Data Movement Energy via Online Data Clustering and Encoding.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Rochester
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">The Microarchitecture of a Real-time Robot Motion Planning Accelerator.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Duke University
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Chameleon: Versatile and Practical Near-DRAM Acceleration Architecture for Large Memory Systems.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UIUC, Seoul National University
+  </tr>
+</table>
+<br>
+
+## 2017
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Bit-Pragmatic Deep Neural Network Computing.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">NVIDIA, University of Toronto
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Syracuse University, City University of New York, USC, California State University, Northeastern University
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">DRISA: A DRAM-based Reconfigurable In-Situ Accelerator.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCSB, Samsung
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Scale-Out Acceleration for Machine Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Georgia Tech, UCSD
+  </tr>
+    <tr>
+    <th text-align="center">  
+    <th text-align="left">Propose CoSMIC, a full computing stack constituting language, compiler, system software, template architecture, and circuit generators, that enable programmable acceleration of learning at scale.
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Univ. of Michigan, Univ. of Nevada
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Data Movement Aware Computation Partitioning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">PSU, TOBB University of Economics and Technology
+  </tr>
+    <tr>
+    <th text-align="center">  
+    <th text-align="left">Partition computation on a manycore system for near data processing.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">PSU, TOBB University of Economics and Technology
+  </tr>
+</table>
+<br>
+
+## 2018
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Addressing Irregularity in Sparse Neural Networks: A Cooperative Software/Hardware Approach.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">USTC, CAS
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Toronto
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">KAIST
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Towards Memory Friendly Long-Short Term Memory Networks(LSTMs) on Mobile GPUs.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Houston, Capital Normal University
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UIUC, THU, SJTU, Intel, UCSD
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">City University of New York, University of Minnesota, USC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Georgia Tech
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCM, UCSD, UCSC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">THU, University of Florida
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">KAIST
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCSB, Samsung
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Morph: Flexible Acceleration for 3D CNN-based Video Understanding.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UIUC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Technion
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Cornell
+  </tr>
+</table>
+<br>
+
+## 2019
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Wire-Aware Architecture and Dataflow for CNN Accelerators.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Utah
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">ShapeShifter: Enabling Fine-Grain Data Width Adaptation in Deep Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Toronto
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">NVIDIA
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">ZCOMP: Reducing DNN Cross-Layer Memory Footprint Using Vector Extensions.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Google, Intel
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Boosting the Performance of CNN Accelerators with Dynamic Fine-Grained Channel Gating.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Cornell
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">SparTen: A Sparse Tensor Accelerator for Convolutional Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Purdue
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">EDEN: Enabling Approximate DRAM for DNN Inference using Error-Resilient Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">ETHZ, CMU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">eCNN: a Block-Based and Highly-Parallel CNN Accelerator for Edge Inference.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">NTHU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">KAIST
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Understanding Reuse, Performance, and Hardware Cost of DNN Dataflows: A Data-Centric Approach.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Georgia Tech, NVIDIA
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">MaxNVM: Maximizing DNN Storage Density and Inference Efficiency with Sparse Encoding and Error Mitigation.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Harvard, Facebook
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Neuron-Level Fuzzy Memoization in RNNs.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UPC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Manna: An Accelerator for Memory-Augmented Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Purdue, Intel
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">eAP: A Scalable and Efficient In-Memory Accelerator for Automata Processing.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Virginia
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">ComputeDRAM: In-Memory Compute Using Off-the-Shelf DRAMs.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Princeton
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">ExTensor: An Accelerator for Sparse Tensor Algebra.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UIUC, NVIDIA
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Efficient SpMV Operation for Large and Highly Sparse Matrices Using Scalable Multi-Way Merge Parallelization.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">CMU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Sparse Tensor Core: Algorithm and Hardware Co-Design for Vector-wise Sparse Neural Networks on Modern GPUs.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCSB, Alibaba
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">DynaSprint: Microarchitectural Sprints with Dynamic Utility and Thermal Management.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Waterloo, ARM, Duke
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">MEDAL: Scalable DIMM based Near Data Processing Accelerator for DNA Seeding Algorithm.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCSB, ICT
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Tigris: Architecture and Algorithms for 3D Perception in Point Clouds.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Rochester
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">ASV: Accelerated Stereo Vision System.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Rochester
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCSB, ICT
+  </tr>
+</table>
+<br>
+
+# HPCA
+## 2016
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">A Performance Analysis Framework for Optimizing OpenCL Applications on FPGAs.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Nanyang Technological University, HKUST, Cornell University
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Georgia Institute of Technology
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Rochester
+  </tr>
+</table>
+<br>
+
+## 2017
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Chinese Academy of Sciences
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Pittsburgh, University of Southern California
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Florida
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Supporting Address Translation for Accelerator-Centric Architectures.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCLA
+  </tr>
+</table>
+<br>
+
+## 2018
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Making Memristive Neural Network Accelerators Reliable.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Rochester
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Florida
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">POSTECH, NVIDIA, UT-Austin
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">University of Florida, Chongqing University, Capital Normal University
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">RC-NVM: Enabling Symmetric Row and Column Memory Accesses for In-Memory Databases.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">PKU, NUDT, Duke, UCLA, PSU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">GraphR: Accelerating Graph Processing Using ReRAM.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Duke, USC, Binghamton University SUNY
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">THU, USC, Stanford
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">PM3: Power Modeling and Power Management for Processing-in-Memory.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">PKU
+  </tr>
+</table>
+<br>
+
+## 2019
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Duke, USC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">E-RNN: Design Optimization for Efficient Recurrent Neural Networks in FPGAs.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Syracuse University, Northeastern University, Florida International University, USC, University at Buffalo
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Michigan, Intel
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Shortcut Mining: Exploiting Cross-layer Shortcut Reuse in DCNN Accelerators.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">OSU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">NAND-Net: Minimizing Computational Complexity of In-Memory Processing for Binary Neural Networks.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">KAIST
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Kelp: QoS for Accelerators in Machine Learning Platforms.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Microsoft, Google, UT Austin
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Machine Learning at Facebook: Understanding Inference at the Edge.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Facebook
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">The Accelerator Wall: Limits of Chip Specialization.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Princeton
+  </tr>
+</table>
+<br>
+
+## 2020
+<table>
+  <tr>
+    <th text-align="center">
+    <th text-align="center">Title
+    <th text-align="center">Authors
+    <th text-align="center">Area
+    <th text-align="center">Organization
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Deep Learning Acceleration with Neuron-to-Memory Transformation.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCSD
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">HyGCN: A GCN Accelerator with Hybrid Architecture.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">ICT, UCSB
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">SIGMA: A Sparse and Irregular GEMM Accelerator with Flexible Interconnects for DNN Training.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Georgia Tech
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">PREMA: A Predictive Multi-task Scheduling Algorithm For Preemptible NPUs.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">KAIST
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Georgia Tech
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">SpArch: Efficient Architecture for Sparse Matrix Multiplication.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">MIT, NVIDIA
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">A3: Accelerating Attention Mechanisms in Neural Networks with Approximation.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">SNU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerator Arrays.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Duke, USC
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">PIXEL: Photonic Neural Network Accelerator.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Ohio, George Washington
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">The Architectural Implications of Facebook’s DNN-based Personalized Recommendation.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Facebook
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Enabling Highly Efficient Capsule Networks Processing Through A PIM-Based Architecture Design.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Houston
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Missing the Forest for the Trees: End-to-End AI Application Performance in Edge Data.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UT Austin, Intel
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Communication Lower Bound in Convolution Accelerators.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">ICT, THU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Fulcrum: a Simplified Control and Access Mechanism toward Flexible and Practical in-situ Accelerators.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Virginia, UCSB, Micron
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">EFLOPS: Algorithm and System Co-design for a High Performance Distributed Training Platform.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Alibaba
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Experiences with ML-Driven Design: A NoC Case Study.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">AMD
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Tensaurus: A Versatile Accelerator for Mixed Sparse-Dense Tensor Computations.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Cornell, Intel
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">A Hybrid Systolic-Dataflow Architecture for Inductive Matrix Algorithms.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">UCLA
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">A Deep Reinforcement Learning Framework for Architectural Exploration: A Routerless NoC Case Study.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">USC, OSU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">QuickNN: Memory and Performance Optimization of k-d Tree Based Nearest Neighbor Search for 3D Point Clouds.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Umich, General Motors
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Orbital Edge Computing: Machine Inference in Space.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">CMU
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">A Scalable and Efficient in-Memory Interconnect Architecture for Automata Processing.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">Virginia
+  </tr>
+  <tr>
+    <th text-align="center">  
+    <th text-align="left">Techniques for Reducing the Connected-Standby Energy Consumption of Mobile Devices.
+    <th text-align="left">Authors
+    <th text-align="center">Country
+    <th text-align="left">ETHZ, Cyprus, CMU
+  </tr>
+</table>
+<br>
