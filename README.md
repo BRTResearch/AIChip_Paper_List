@@ -67,6 +67,8 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">1
@@ -77,6 +79,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Zidong Du
     <th text-align="center">China
     <th text-align="left">ICT
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -89,6 +92,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">1
@@ -99,6 +103,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Jorge Albericio, Tayler Hetheringto
     <th text-align="center">Canada
     <th text-align="left">University of Toronto, University of British Columbia
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">2
@@ -106,6 +111,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Ali Shafiee, Vivek Srikumar
     <th text-align="center">US
     <th text-align="left">University of Utah，Hewlett Packard Labs
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">3
@@ -113,6 +119,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Ping Chi, Yuan Xie
     <th text-align="center">US
     <th text-align="left">University of California 
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">4
@@ -120,6 +127,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Song Han, William J. Dally
     <th text-align="center">US
     <th text-align="left">Stanford University, NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">5
@@ -127,6 +135,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Robert LiKamWa, Lin Zhong
     <th text-align="center">US
     <th text-align="left">Rice University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">6
@@ -137,6 +146,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Brandon Reagen, David Brooks
     <th text-align="center">US
     <th text-align="left">Harvard University 
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">7
@@ -144,6 +154,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Yu-Hsin Chen, Vivienne Sze
     <th text-align="center">US
     <th text-align="left">MIT, NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">8
@@ -154,6 +165,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Duckhwan Kim, Saibal Mukhopadhyay
     <th text-align="center">US
     <th text-align="left">Georgia Institute of Technology 
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">9
@@ -164,6 +176,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Shaoli Liu, Tianshi Chen
     <th text-align="center">China
     <th text-align="left">CAS, Cambricon Ltd.
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">10
@@ -174,6 +187,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Muhammet Mustafa Ozdal, Ozcan Ozturk
     <th text-align="center">Turkey
     <th text-align="left">Bilkent University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">11
@@ -184,6 +198,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Siyang Wang, Alvin R. Lieberk
     <th text-align="center">US
     <th text-align="left">Duke University
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -196,6 +211,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">1
@@ -203,6 +219,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Norman P. Jouppi
     <th text-align="center">US
     <th text-align="left">Google
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">2
@@ -210,6 +227,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Yongming Shen
     <th text-align="center">US
     <th text-align="left">Stony Brook University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">3
@@ -217,6 +235,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Swagath Venkataramani, Anand Raghunathan
     <th text-align="center">US
     <th text-align="left">Purdue University, Parallel Computing Lab, Intel Corporation
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">4
@@ -224,6 +243,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Jiecao Yu, Scott Mahlke
     <th text-align="center">US
     <th text-align="left">University of Michigan, ARM
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">5
@@ -234,6 +254,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Angshuman Parashar, William J. Dally
     <th text-align="center">US
     <th text-align="left">NVIDIA, MIT, UC-Berkeley, Stanford University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">6
@@ -241,6 +262,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Tony Nowatzki
     <th text-align="center">US
     <th text-align="left">University of California, University of Wisconsin
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">7
@@ -248,6 +270,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Christopher De Sa, Kunle Olukotun
     <th text-align="center">US
     <th text-align="left">Stanford University
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -260,6 +283,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">1
@@ -270,6 +294,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Jeremy Fowers, Doug Burger
     <th text-align="center">US
     <th text-align="left">Microsoft 
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">2
@@ -277,6 +302,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Prakalp Srivastava, Mingu Kang
     <th text-align="center">US
     <th text-align="left">University of Illinois at Urbana-Champaign, IBM
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">3
@@ -284,6 +310,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Marc Riera, Antonio Gonza ?lez
     <th text-align="center">Spain
     <th text-align="left">Universitat Polite ?cnica de Catalunya 
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">4
@@ -294,6 +321,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Daichi Fujiki, Satish Narayanasamy
     <th text-align="center">US
     <th text-align="left">University of Michigan 
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">5
@@ -301,6 +329,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Dayeol Lee, Jangwoo Kim
     <th text-align="center">North Korea,US
     <th text-align="left">Seoul National University, University of California
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">6
@@ -308,6 +337,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">James E. Smith 
     <th text-align="center">US
     <th text-align="left">University of Wisconsin-Madison 
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">7
@@ -315,6 +345,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Xiangyu Zhang, Alvin R. Lebeck 
     <th text-align="center">US
     <th text-align="left">Duke University, Parabon Labs
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">8
@@ -325,6 +356,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Fengbin Tu, Shaojun Wei
     <th text-align="center">China
     <th text-align="left">Tsinghua University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">9
@@ -332,6 +364,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Charles Eckert, Reetuparna Das
     <th text-align="center">US
     <th text-align="left">University of Michigan, Intel Corporation
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">10
@@ -339,6 +372,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Jacob Sacks, Hadi Esmaeilzadeh
     <th text-align="center">US
     <th text-align="left">Georgia Institute of Technology, University of California, San Diego
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">11
@@ -346,6 +380,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Mark Buckler, Adrian Sampson
     <th text-align="center">US
     <th text-align="left">Cornell University 
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">12
@@ -356,6 +391,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Yuhao Zhu, Paul Whatmough
     <th text-align="center">US
     <th text-align="left">University of Rochetster, ARM Research
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">13
@@ -366,6 +402,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Amir Yazdanbakhsh, Hadi Esmaeilzadeh
     <th text-align="center">US
     <th text-align="left">Georgia Institute of Technology, UC San Diego, Qualcomm Technologies, Inc.
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">14
@@ -376,6 +413,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Vahideh Akhlaghi, Hadi Esmaeilzadeh
     <th text-align="center">US
     <th text-align="left">Georgia Institute of Technology, UC San Diego, Qualcomm Technologies, Inc.
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">15
@@ -386,6 +424,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Kartik Hegde, Christopher W. Fletche
     <th text-align="center">US
     <th text-align="left">University of Illinois at Urbana-Champaign,  NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">16
@@ -396,6 +435,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Eunhyeok Park, Sungjoo Yoo 
     <th text-align="center">North Korea
     <th text-align="left">Seoul National University 
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">17
@@ -403,6 +443,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Mingcong Song, Tao Li
     <th text-align="center">US
     <th text-align="left">University of Flirida
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">18
@@ -410,6 +451,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Hardik Sharma, Hadi Esmaeilzadeh
     <th text-align="center">US
     <th text-align="left">Georgia Institute of Technology, University of California
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">19
@@ -417,6 +459,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Animesh Jain, Gennady Pekhimenko
     <th text-align="center">US,Canada
     <th text-align="left">Microsoft Research, University of Toronto, Univerity of Michigan
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">20
@@ -424,6 +467,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Reza Yazdani, Antonio Gonza ?lez
     <th text-align="center">Spain
     <th text-align="left">Universitat Polite ?cnica de Catalunya 
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -436,6 +480,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">1
@@ -443,6 +488,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Huixiang Chen, Tao Li
     <th text-align="center">US
     <th text-align="left">University of Florida
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">2
@@ -450,6 +496,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Ruizhe Cai, Ao Ren, Nobuyuki Yoshikawa, Yanzhi Wang
     <th text-align="center">US
     <th text-align="left">Northeastern University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">3
@@ -460,6 +507,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Youjie Li, Jian Huang
     <th text-align="center">US
     <th text-align="left">UIUC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">4
@@ -470,6 +518,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Jiaqi Zhang, Tao Li
     <th text-align="center">US
     <th text-align="left">University of Florida
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">5
@@ -480,6 +529,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Sayeh Sharify, Andreas Moshovos
     <th text-align="center">Canada
     <th text-align="left">University of Toronto
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">6
@@ -490,6 +540,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Hanhwi Jang, Jangwoo Kim
     <th text-align="center">North Korea
     <th text-align="left">POSTECH, Seoul National University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">7
@@ -500,6 +551,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Tzu-Hsien Yang
     <th text-align="center">China Twain
     <th text-align="left">National Taiwan University, Academia Sinica, Macronix International Co., Ltd.
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">8
@@ -510,6 +562,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Chunhua Deng, Bo Yuan
     <th text-align="center">US
     <th text-align="left">Rutgers University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">9
@@ -520,6 +573,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Mohsen Imani, Tajana Rosing
     <th text-align="center">US
     <th text-align="left">UC San Diego
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">10
@@ -530,6 +584,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Yongwei Zhao, Yunji Chen
     <th text-align="center">China
     <th text-align="left">ICT, Cambricon
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">11
@@ -540,6 +595,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Andrea Lottarini, Martha A. Kim
     <th text-align="center">US
     <th text-align="left">Google, Columbia University
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -553,6 +609,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -560,6 +617,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">CAS, Inria
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -572,6 +630,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -579,6 +638,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">CAS, USTC, Inria
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -591,6 +651,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -598,6 +659,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Stanford University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -605,6 +667,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Syracuse University, USC, The City College of New York
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -617,6 +680,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -624,6 +688,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Tsinghua, UCSB
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -631,6 +696,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Georgia Tech
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -638,6 +704,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Syracuse University, USC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -645,6 +712,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Guizhou University, University of Florida
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -652,6 +720,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Yale
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -664,6 +733,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -671,6 +741,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Hongik University, SNU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -678,6 +749,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Purdue, UIUC, HP
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -685,6 +757,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">THU, UCSB
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -692,6 +765,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Toronto, NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -699,6 +773,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Stanford
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -706,6 +781,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Harvard
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -713,6 +789,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">IBM, Kyungpook National University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -720,6 +797,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">USC, THU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -727,6 +805,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Microsoft
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -734,6 +813,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Northeastern, Syracuse, SUNY, Buffalo, USC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -741,6 +821,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCSD
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -753,6 +834,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -760,6 +842,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCSD
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -767,6 +850,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">CAS, USC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -774,6 +858,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Stanford, THU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -781,6 +866,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCSB
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -788,6 +874,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">USC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -795,6 +882,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">College of William and Mary, Northeastern , USC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -802,6 +890,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">HUST, MSRA, USC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -809,6 +898,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">KAIST
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -816,6 +906,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">PKU
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -829,6 +920,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -836,6 +928,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">CAS, Inria, Inner Mongolia University
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -848,6 +941,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -855,6 +949,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Georgia Institute of Technology, Intel
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -862,6 +957,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -869,6 +965,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Toronto, University of British Columbia
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -876,6 +973,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Chinese Academy of Sciences
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -883,6 +981,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Tsinghua University, UCSB
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -890,6 +989,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Stony Brook University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -897,6 +997,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">The Hong Kong Polytechnic University, NSF/University of Florida
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -904,6 +1005,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -911,6 +1013,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Universitat Politecnica de Catalunya
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -918,6 +1021,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">TAMU, Intel Labs
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -925,6 +1029,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Microsoft Research
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -932,6 +1037,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Rochester
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -939,6 +1045,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Duke University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -946,6 +1053,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UIUC, Seoul National University
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -958,6 +1066,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -965,6 +1074,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">NVIDIA, University of Toronto
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -972,6 +1082,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Syracuse University, City University of New York, USC, California State University, Northeastern University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -979,6 +1090,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCSB, Samsung
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -986,6 +1098,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Georgia Tech, UCSD
+    <th text-align="center">Tags
   </tr>
     <tr>
     <th text-align="center">  
@@ -996,6 +1109,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Univ. of Michigan, Univ. of Nevada
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1003,6 +1117,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">PSU, TOBB University of Economics and Technology
+    <th text-align="center">Tags
   </tr>
     <tr>
     <th text-align="center">  
@@ -1010,6 +1125,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">PSU, TOBB University of Economics and Technology
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -1022,6 +1138,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1029,6 +1146,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">USTC, CAS
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1036,6 +1154,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Toronto
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1043,6 +1162,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">KAIST
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1050,6 +1170,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Houston, Capital Normal University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1057,6 +1178,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UIUC, THU, SJTU, Intel, UCSD
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1064,6 +1186,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">City University of New York, University of Minnesota, USC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1071,6 +1194,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Georgia Tech
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1078,6 +1202,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCM, UCSD, UCSC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1085,6 +1210,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">THU, University of Florida
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1092,6 +1218,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">KAIST
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1099,6 +1226,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCSB, Samsung
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1106,6 +1234,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UIUC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1113,6 +1242,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Technion
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1120,6 +1250,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Cornell
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -1132,6 +1263,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1139,6 +1271,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Utah
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1146,6 +1279,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Toronto
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1153,6 +1287,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1160,6 +1295,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Google, Intel
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1167,6 +1303,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Cornell
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1174,6 +1311,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Purdue
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1181,6 +1319,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">ETHZ, CMU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1188,6 +1327,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">NTHU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1195,6 +1335,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">KAIST
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1202,6 +1343,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Georgia Tech, NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1209,6 +1351,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Harvard, Facebook
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1216,6 +1359,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UPC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1223,6 +1367,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Purdue, Intel
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1230,6 +1375,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Virginia
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1237,6 +1383,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Princeton
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1244,6 +1391,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UIUC, NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1251,6 +1399,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">CMU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1258,6 +1407,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCSB, Alibaba
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1265,6 +1415,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Waterloo, ARM, Duke
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1272,6 +1423,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCSB, ICT
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1279,6 +1431,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Rochester
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1286,6 +1439,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Rochester
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1293,6 +1447,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCSB, ICT
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -1306,6 +1461,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1313,6 +1469,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Nanyang Technological University, HKUST, Cornell University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1320,6 +1477,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Georgia Institute of Technology
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1327,6 +1485,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Rochester
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -1339,6 +1498,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1346,6 +1506,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Chinese Academy of Sciences
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1353,6 +1514,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Pittsburgh, University of Southern California
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1360,6 +1522,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Florida
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1367,6 +1530,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCLA
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -1379,6 +1543,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1386,6 +1551,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Rochester
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1393,6 +1559,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Florida
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1400,6 +1567,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">POSTECH, NVIDIA, UT-Austin
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1407,6 +1575,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">University of Florida, Chongqing University, Capital Normal University
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1414,6 +1583,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">PKU, NUDT, Duke, UCLA, PSU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1421,6 +1591,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Duke, USC, Binghamton University SUNY
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1428,6 +1599,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">THU, USC, Stanford
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1435,6 +1607,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">PKU
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -1447,6 +1620,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1454,6 +1628,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Duke, USC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1461,6 +1636,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Syracuse University, Northeastern University, Florida International University, USC, University at Buffalo
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1468,6 +1644,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Michigan, Intel
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1475,6 +1652,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">OSU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1482,6 +1660,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">KAIST
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1489,6 +1668,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Microsoft, Google, UT Austin
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1496,6 +1676,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Facebook
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1503,6 +1684,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Princeton
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
@@ -1515,6 +1697,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="center">Authors
     <th text-align="center">Area
     <th text-align="center">Organization
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1522,6 +1705,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCSD
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1529,6 +1713,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">ICT, UCSB
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1536,6 +1721,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Georgia Tech
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1543,6 +1729,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">KAIST
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1550,6 +1737,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Georgia Tech
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1557,6 +1745,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">MIT, NVIDIA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1564,6 +1753,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">SNU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1571,6 +1761,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Duke, USC
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1578,6 +1769,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Ohio, George Washington
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1585,6 +1777,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Facebook
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1592,6 +1785,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Houston
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1599,6 +1793,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UT Austin, Intel
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1606,6 +1801,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">ICT, THU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1613,6 +1809,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Virginia, UCSB, Micron
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1620,6 +1817,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Alibaba
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1627,6 +1825,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">AMD
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1634,6 +1833,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Cornell, Intel
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1641,6 +1841,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">UCLA
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1648,6 +1849,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">USC, OSU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1655,6 +1857,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Umich, General Motors
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1662,6 +1865,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">CMU
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1669,6 +1873,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">Virginia
+    <th text-align="center">Tags
   </tr>
   <tr>
     <th text-align="center">  
@@ -1676,6 +1881,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">   
     <th text-align="center">     
     <th text-align="left">ETHZ, Cyprus, CMU
+    <th text-align="center">Tags
   </tr>
 </table>
 <br>
