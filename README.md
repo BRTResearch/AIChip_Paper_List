@@ -1100,9 +1100,6 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
     <th text-align="left">Georgia Tech, UCSD
     <th text-align="center">Tags
   </tr>
-    <tr>
-    <th text-align="center">  
-    <th text-align="left">Propose CoSMIC, a full computing stack constituting language, compiler, system software, template architecture, and circuit generators, that enable programmable acceleration of learning at scale.
   <tr>
     <th text-align="center">  
     <th text-align="left">DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission.
