@@ -101,8 +101,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 
 ## ASPLOS
 ### 2020
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |Shredder: Learning Noise Distributions to Protect Inference Privacy.<br><a href="">paper|     |UCSD
 |Tags|  |DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks.<br><a href="">paper|     |CAS; USC
 |Tags|  |Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators.<br><a href="">paper|     |Stanford; THU
@@ -116,8 +116,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2019
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |FA3C: FPGA-Accelerated Deep Reinforcement Learning.|     |Hongik University; SNU
 |Tags|  |PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference.|     |Purdue; UIUC; HP
 |Tags|  |FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture.|     |THU; UCSB
@@ -132,8 +132,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2018
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.|     |Tsinghua; UCSB
 |Tags|  |MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.|     |Georgia Tech
 |Tags|  |VIBNN: Hardware Acceleration of Bayesian Neural Networks.|     |Syracuse University; USC
@@ -142,28 +142,28 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2017
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory.|     |Stanford University
 |Tags|  |SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing.|     |Syracuse University; USC; The City College of New York
 <br>
 
 ### 2015
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |PuDianNao: A Polyvalent Machine Learning Accelerator.|     |CAS; USTC; Inria
 <br>
 
 ### 2014
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.|     |CAS; Inria
 <br>
 
 ## MICRO
 ### 2019
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |Wire-Aware Architecture and Dataflow for CNN Accelerators.|     |Utah
 |Tags|  |ShapeShifter: Enabling Fine-Grain Data Width Adaptation in Deep Learning.|     |Toronto
 |Tags|  |Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture.|     |NVIDIA
@@ -191,8 +191,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2018
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |Addressing Irregularity in Sparse Neural Networks: A Cooperative Software/Hardware Approach.|     |USTC; CAS
 |Tags|  |Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator.|     |University of Toronto
 |Tags|  |Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning.|     |KAIST
@@ -210,8 +210,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2017
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |Bit-Pragmatic Deep Neural Network Computing.|     |NVIDIA; University of Toronto
 |Tags|  |CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.|     |Syracuse University; City University of New York; USC; California State University; Northeastern University
 |Tags|  |DRISA: A DRAM-based Reconfigurable In-Situ Accelerator.|     |UCSB; Samsung
@@ -222,8 +222,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2016
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |From High-Level Deep Neural Models to FPGAs.|     |Georgia Institute of Technology; Intel
 |Tags|  |vDNN: Virtualized Deep Neural Networks for Scalable; Memory-Efficient Neural Network Design.|     |NVIDIA
 |Tags|  |Stripes: Bit-Serial Deep Neural Network Computing.|     |University of Toronto; University of British Columbia
@@ -241,16 +241,16 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2014
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |DaDianNao: A Machine-Learning Supercomputer.|     |CAS; Inria; Inner Mongolia University
 <br>
 
 
 ## HPCA
 ### 2020
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Accelerator; memristor|  |Deep Learning Acceleration with Neuron-to-Memory Transformation.<br><a href="https://pdfs.semanticscholar.org/3df4/37d399746e41dd63fe8d46734a3a8523654d.pdf?_ga=2.85586201.1813124284.1587000449-973045201.1587000449">Paper  |     |UCSD
 |graph network; computation patterns; accelerator|  |HyGCN: A GCN Accelerator with Hybrid Architecture.<br><a href="https://arxiv.org/pdf/2001.02514.pdf">Paper  |     |ICT; UCSB
 |training; accelerator; sparse|  |SIGMA: A Sparse and Irregular GEMM Accelerator with Flexible Interconnects for DNN Training.<br><a href="https://synergy.ece.gatech.edu/wp-content/uploads/sites/332/2020/01/sigma_hpca2020.pdf">Paper  <a href="https://synergy.ece.gatech.edu/wp-content/uploads/sites/332/2020/03/HPCA2020-SIGMA-talk.pdf">Slides|     |Georgia Tech
@@ -275,8 +275,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2019
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array.|     |Duke; USC
 |Tags|  |E-RNN: Design Optimization for Efficient Recurrent Neural Networks in FPGAs.|     |Syracuse University; Northeastern University; Florida International University; USC; University at Buffalo
 |Tags|  |Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks.|     |Michigan; Intel
@@ -288,8 +288,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2018
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |Making Memristive Neural Network Accelerators Reliable.|     |University of Rochester
 |Tags|  |Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.|     |University of Florida
 |Tags|  |Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.|     |POSTECH; NVIDIA; UT-Austin
@@ -301,8 +301,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2017
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks.|     |Chinese Academy of Sciences
 |Tags|  |PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning.|     |University of Pittsburgh; University of Southern California
 |Tags|  |Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures.|     |University of Florida
@@ -310,8 +310,8 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 <br>
 
 ### 2016
-|Tags|- |Title|Authors|Affiliations|
-|-|-|-|-|-|-|
+| Tags                            | \- | Title                                                                                                                                                            | Authors   | Affiliations |
+|---------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------|
 |Tags|  |A Performance Analysis Framework for Optimizing OpenCL Applications on FPGAs.|     |Nanyang Technological University; HKUST; Cornell University
 |Tags|  |TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning.|     |Georgia Institute of Technology
 |Tags|  |Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning.|     |University of Rochester
