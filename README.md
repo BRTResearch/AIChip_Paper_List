@@ -114,7 +114,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
 |Tags|  |Capuchin: Tensor-based GPU Memory Management for Deep Learning.|   |     |HUST, MSRA, USC
 |Tags|  |NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units.|   |     |KAIST
 |Tags|  |FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System.|   |     |PKU
-|Tags|  |<a href="https://dl.acm.org/doi/10.1145/3373376.3378473">Orbital Edge Computing: Machine Inference in Space|Orbital Edge Computing: Machine Inference in Space.|   |     |CMU
+|Tags|  |Orbital Edge Computing: Machine Inference in Space|Orbital Edge Computing: Machine Inference in Space.<br><a href="https://dl.acm.org/doi/10.1145/3373376.3378473">paper|   |     |CMU
 <br>
 
 ## 2019
@@ -264,7 +264,7 @@ Now we list all the papers we have collected. If it is linkable, it is linked to
 |Tags|  |PIXEL: Photonic Neural Network Accelerator.|   |     |Ohio, George Washington
 |recommendation; workloads; performance metrics|  |The Architectural Implications of Facebook’s DNN-based Personalized Recommendation.<br><a href="https://research.fb.com/wp-content/uploads/2020/02/The-Architectural-Implications-of-Facebook%E2%80%99s-DNN-based-Personalized-Recommendation.pdf?">Paper  |   |     |Facebook
 |Capasule; computing Arch.; processing-in- memory|  |Enabling Highly Efficient Capsule Networks Processing Through A PIM-Based Architecture Design.<br><a href="https://arxiv.org/pdf/1911.03451.pdf">Paper  |   |     |Houston
-|Tags|  |Missing the Forest for the Trees: End-to-End AI Application Performance in Edge Data.<br>Paper  <a href="https://www.sigarch.org/wp-content/uploads/2020/03/AI_Tax_Missing_the_Forest_for_the_Trees_HPCA2020.pdf">Slides|   |     |UT Austin, Intel
+|Tags|  |Missing the Forest for the Trees: End-to-End AI Application Performance in Edge Data.<br><a href="https://www.sigarch.org/wp-content/uploads/2020/03/AI_Tax_Missing_the_Forest_for_the_Trees_HPCA2020.pdf">Slides|   |     |UT Austin, Intel
 |accelerator; communication; Lower bound|  |Communication Lower Bound in Convolution Accelerators.<br><a href="https://arxiv.org/pdf/1911.05662.pdf">Paper|   |     |ICT, THU
 |Tags|  |Fulcrum: a Simplified Control and Access Mechanism toward Flexible and Practical in-situ Accelerators.|   |     |Virginia, UCSB, Micron
 |Tags|  |EFLOPS: Algorithm and System Co-design for a High Performance Distributed Training Platform.|   |     |Alibaba
