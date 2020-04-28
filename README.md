@@ -110,7 +110,7 @@ We list all the papers we have collected. If it is linkable; it is linked to the
 ### 2019
 | Tags | - | Title                                                                                                                                  | Authors | Affiliations                               |
 |------|----|----------------------------------------------------------------------------------------------------------------------------------------|---------|--------------------------------------------|
-| RL, |    | FA3C: FPGA-Accelerated Deep Reinforcement Learning.<br>[paper](https://dl.acm.org/doi/pdf/10.1145/3297858.3304058?download=true) |         | Hongik University; SNU                     |
+| RL |    | FA3C: FPGA-Accelerated Deep Reinforcement Learning.<br>[paper](https://dl.acm.org/doi/pdf/10.1145/3297858.3304058?download=true) |         | Hongik University; SNU                     |
 | Inference,   ReRAM |    | PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference.<br>[paper](https://arxiv.org/pdf/1901.10351.pdf) |         | Purdue; UIUC; HP                           |
 | Inference, ReRAM |    | FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture.<br>[paper](https://seal.ece.ucsb.edu/sites/default/files/publications/1901.09904.pdf) |         | THU; UCSB                                  |
 | Inference, Bit-serial |    | Bit-Tactical: A Software/Hardware Approach to Exploiting Value and Bit Sparsity in Neural Networks.<br>[paper](http://www.eecg.toronto.edu/~mostafam/files/TCL_ASPLOS2019.pdf) |         | Toronto; NVIDIA                            |
