@@ -20,7 +20,7 @@
 
 We will use the following tags to annotate these papers.
 
-![](D:\ll\Biren\opensource\paperlist\AIChip_Paper_List\Summarys\tag-list_v0.4.png)
+![Tags](D:\ll\Biren\opensource\paperlist\AIChip_Paper_List\Summarys\tag-list_v04s.png)
 
 ​                               
 
