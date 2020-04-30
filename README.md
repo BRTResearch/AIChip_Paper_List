@@ -10,25 +10,24 @@
 
 
 ## About This Project
-​	This project aims to help engineers, researchers and students to easily find and learn the good thoughts and designs in AI-related fields, such as AI/ML/DL accelerators, chips, and systems, proposed in the top-tier architecture conferences (ISCA, MICRO, ASPLOS, HPCA),. We also try to give some hints to these papers by adding some tags or notes based on our understanding. 
+​	This project aims to help engineers, researchers and students to easily find and learn the good thoughts and designs in AI-related fields, such as AI/ML/DL accelerators, chips, and systems, proposed in the top-tier architecture conferences (ISCA, MICRO, ASPLOS, HPCA). 
 
-​	This project is initiated by the Advanced Computer Architecture Lab (ACA Lab) in Shanghai Jiao Tong University in collaboration with Biren Research. We will extend to more sources gradually. Please let us know if you have any comments or willings to contribute.
+​	This project is initiated by the Advanced Computer Architecture Lab (ACA Lab) in Shanghai Jiao Tong University in collaboration with Biren Research.  Articles from additional sources is being added. Please let us know if you have any comments or willing to contribute.
 
 
 
 ## The Listing of Tags
 
-We will use the following tags to annotate these papers.
+​	For guidance and searching purposes, Tags and/or notes are assigned to all these papers . We will use the following tags to annotate these papers.
 
-![Tags](Summarys/tag-list_v04s.png)
+![Tags](tag-list_v04s.png)
 
 ​                               
 
 ## The Chronological Listing of Papers
 
 
-<br>
-We list all the papers we have collected. If it is linkable; it is linked to the summary/paper/slides of the paper. The links are still updating.<br>
+​	We list all the papers we have collected. If it is linkable; it is linked to the summary/paper/slides of the paper. The links are still updating.<br>
 
 ## ISCA 
 ### 2019
