@@ -27,7 +27,7 @@
 ## The Chronological Listing of Papers
 
 
-​	We list all AI related articles we have collected. The links of <u>summary</u>/<u>paper</u>/<u>slides</u> are provided under the title of each article If available. Updating is in progress.<br>
+​	We list all AI related articles  collected. The links of <u>summary</u>/<u>paper</u>/<u>slides</u> are provided under the title of each article If available. Updating is in progress.<br>
 
 ## ISCA 
 ### 2019
