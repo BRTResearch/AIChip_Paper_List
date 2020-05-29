@@ -30,6 +30,19 @@
 ​	We list all AI related articles  collected. The links of <u>paper</u>/<u>slides</u>/<u>note</u> are provided under the title of each article If available. Updating is in progress.<br>
 
 ## ISCA 
+### 2020
+
+| Tags                                                         | -    | Title                                                        | Authors                                             | Affiliations                                                 |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
+|  |      | High-Performance Deep-Learning Coprocessor Integrated into x86 SoC with Server-Class CPUs <br>[paper]() |Glenn Henry; Parviz Palangpour                              |                                         |
+|  |      |Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workload <br>[paper]() |Dennis Abts; Jonathan Ross                              |                                         |
+|  |      |Gorgon: Accelerating Machine Learning from Relational Data <br>[paper]() |Matthew Vilim; Alex Rucker                             |     Stanford                                    |
+|  |      |SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks <br>[paper]() |Surya Narayanan; Karl Taht                             |                                       |
+|  |      |MLPerf Inference Benchmark  <br>[paper]() |Vijay Janapa Reddi                             |   Harvard/UT Austin       |
+|  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br>[paper]() |Esha Choukse; Michael Sullivan                             |                                     |
+|  |      |A Multi-Neural Network Acceleration Architecture  <br>[paper]() |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |SNU|
+|  |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br>[paper]() |  Zhuoran Song; Bangqi Fu    ||
+|  |      |Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training  <br>[paper]() |Bojian Zheng; Nandita Vijaykumar           ||
 ### 2019
 
 | Tags                                                         | -    | Title                                                        | Authors                                             | Affiliations                                                 |
