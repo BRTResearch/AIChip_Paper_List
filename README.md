@@ -38,7 +38,7 @@
 |  |      |Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workload <br>[paper](https://www.iscaconf.org/isca2020/papers/466100a145.pdf) |Dennis Abts; Jonathan Ross | Groq Inc.                     |
 |  |      |Gorgon: Accelerating Machine Learning from Relational Data <br> |Matthew Vilim; Alex Rucker                             |    Stanford University                                  |
 |  |      |SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks <br>[paper](http://www.cs.utah.edu/~rajeev/pubs/isca20s.pdf) |Surya Narayanan; Karl Taht                             | University of Utah                                      |
-|  |      |MLPerf Inference Benchmark  <br>[paper](https://arxiv.org/pdf/1911.02549.pdf) |Vijay Janapa Reddi                             |  Harvard University; UT Austin      |
+|  |      |MLPerf Inference Benchmark  <br>[paper](https://arxiv.org/pdf/1911.02549.pdf) |Vijay Janapa Reddi                             |       |
 |  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br>[paper](https://arxiv.org/pdf/1903.02596.pdf) |Esha Choukse; Michael Sullivan                             |    University of Texas at Austin; NVIDIA                                 |
 |  |      |A Multi-Neural Network Acceleration Architecture  <br> |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |Seoul National University|
 |  |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br> |  Zhuoran Song; Bangqi Fu    |Shanghai Jiao Tong University|
