@@ -41,7 +41,7 @@
 |  |      |MLPerf Inference Benchmark  <br>[paper](https://arxiv.org/pdf/1911.02549.pdf) |Vijay Janapa Reddi                             |       |
 |  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br>[paper](https://arxiv.org/pdf/1903.02596.pdf) |Esha Choukse; Michael Sullivan                             |    University of Texas at Austin; NVIDIA                                 |
 |  |      |A Multi-Neural Network Acceleration Architecture  <br> |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |Seoul National University|
-|  |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br> |  Zhuoran Song; Bangqi Fu    |Shanghai Jiao Tong University|
+|  |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br> |  Zhuoran Song; Xiaoyao Liang; Naifeng Jing    |Shanghai Jiao Tong University|
 |  |      |Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training  <br>[paper](https://arxiv.org/pdf/1805.08899.pdf) |Bojian Zheng; Nandita Vijaykumar           |University of Toronto|
 ### 2019
 
