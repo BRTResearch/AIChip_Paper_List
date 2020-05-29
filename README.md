@@ -35,9 +35,9 @@
 | Tags                                                         | -    | Title                                                        | Authors                                             | Affiliations                                                 |
 | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
 |  |      | High-Performance Deep-Learning Coprocessor Integrated into x86 SoC with Server-Class CPUs <br>[paper]() |Glenn Henry; Parviz Palangpour                              |                                         |
-|  |      |Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workload <br>[paper]() |Dennis Abts; Jonathan Ross                              |                                         |
+|  |      |Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workload <br>[paper](https://www.iscaconf.org/isca2020/papers/466100a145.pdf) |Dennis Abts; Jonathan Ross                              |                                         |
 |  |      |Gorgon: Accelerating Machine Learning from Relational Data <br>[paper]() |Matthew Vilim; Alex Rucker                             |     Stanford                                    |
-|  |      |SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks <br>[paper]() |Surya Narayanan; Karl Taht                             |                                       |
+|  |      |SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks <br>[paper](http://www.cs.utah.edu/~rajeev/pubs/isca20s.pdf) |Surya Narayanan; Karl Taht                             |                                       |
 |  |      |MLPerf Inference Benchmark  <br>[paper]() |Vijay Janapa Reddi                             |   Harvard/UT Austin       |
 |  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br>[paper]() |Esha Choukse; Michael Sullivan                             |                                     |
 |  |      |A Multi-Neural Network Acceleration Architecture  <br>[paper]() |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |SNU|
