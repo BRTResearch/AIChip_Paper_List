@@ -34,15 +34,15 @@
 
 | Tags                                                         | -    | Title                                                        | Authors                                             | Affiliations                                                 |
 | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
-|  |      | High-Performance Deep-Learning Coprocessor Integrated into x86 SoC with Server-Class CPUs <br> |Glenn Henry; Parviz Palangpour                              |     Centaur Technology                                    |
-|  |      |Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workload <br>[paper](https://www.iscaconf.org/isca2020/papers/466100a145.pdf) |Dennis Abts; Jonathan Ross | Groq Inc.                     |
-|  |      |Gorgon: Accelerating Machine Learning from Relational Data <br> |Matthew Vilim; Alex Rucker                             |    Stanford University                                  |
-|  |      |SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks <br>[paper](http://www.cs.utah.edu/~rajeev/pubs/isca20s.pdf) |Surya Narayanan; Karl Taht                             | University of Utah                                      |
-|  |      |MLPerf Inference Benchmark  <br>[paper](https://arxiv.org/pdf/1911.02549.pdf) |Vijay Janapa Reddi                             |       |
-|  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br>[paper](https://arxiv.org/pdf/1903.02596.pdf) |Esha Choukse; Michael Sullivan                             |    University of Texas at Austin; NVIDIA                                 |
-|  |      |A Multi-Neural Network Acceleration Architecture  <br> |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |Seoul National University|
-|  |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br> |  Zhuoran Song; Xiaoyao Liang; Naifeng Jing    |Shanghai Jiao Tong University|
-|  |      |Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training  <br>[paper](https://arxiv.org/pdf/1805.08899.pdf) |Bojian Zheng; Nandita Vijaykumar           |University of Toronto|
+| Inference; SIMD  |      | High-Performance Deep-Learning Coprocessor Integrated into x86 SoC with Server-Class CPUs <br> |Glenn Henry; Parviz Palangpour                              |     Centaur Technology                                    |
+| Inference; dataflow |      |Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workload <br>[paper](https://www.iscaconf.org/isca2020/papers/466100a145.pdf) |Dennis Abts; Jonathan Ross | Groq Inc.                     |
+| Spiking; dataflow; Sparsity |      |SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks <br>[paper](http://www.cs.utah.edu/~rajeev/pubs/isca20s.pdf) |Surya Narayanan; Karl Taht                             | University of Utah                                      |
+| Inference; benchmarking |      |MLPerf Inference Benchmark  <br>[paper](https://arxiv.org/pdf/1911.02549.pdf) |Vijay Janapa Reddi; Lingjie Xu, etc.   |       |
+| GPU; Compression  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br>[paper](https://arxiv.org/pdf/1903.02596.pdf) |Esha Choukse; Michael Sullivan                             |    University of Texas at Austin; NVIDIA                                 |
+| Inference; runtime |      |A Multi-Neural Network Acceleration Architecture  <br> |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |Seoul National University|
+| Inference; Dynamic fixed-point |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br> |  Zhuoran Song; Naifeng Jing; Xiaoyao Liang  |Shanghai Jiao Tong University|
+| Training; LSTM; GPU  |      |Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training  <br>[paper](https://arxiv.org/pdf/1805.08899.pdf) |Bojian Zheng; Nandita Vijaykumar           |University of Toronto|
+
 ### 2019
 
 | Tags                                                         | -    | Title                                                        | Authors                                             | Affiliations                                                 |
