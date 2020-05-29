@@ -34,15 +34,15 @@
 
 | Tags                                                         | -    | Title                                                        | Authors                                             | Affiliations                                                 |
 | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
-|  |      | High-Performance Deep-Learning Coprocessor Integrated into x86 SoC with Server-Class CPUs <br>[paper]() |Glenn Henry; Parviz Palangpour                              |                                         |
+|  |      | High-Performance Deep-Learning Coprocessor Integrated into x86 SoC with Server-Class CPUs <br> |Glenn Henry; Parviz Palangpour                              |     Centaur Technology                                    |
 |  |      |Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workload <br>[paper](https://www.iscaconf.org/isca2020/papers/466100a145.pdf) |Dennis Abts; Jonathan Ross                              |                                         |
-|  |      |Gorgon: Accelerating Machine Learning from Relational Data <br>[paper]() |Matthew Vilim; Alex Rucker                             |     Stanford                                    |
-|  |      |SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks <br>[paper](http://www.cs.utah.edu/~rajeev/pubs/isca20s.pdf) |Surya Narayanan; Karl Taht                             |                                       |
-|  |      |MLPerf Inference Benchmark  <br>[paper]() |Vijay Janapa Reddi                             |   Harvard/UT Austin       |
-|  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br>[paper]() |Esha Choukse; Michael Sullivan                             |                                     |
-|  |      |A Multi-Neural Network Acceleration Architecture  <br>[paper]() |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |SNU|
-|  |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br>[paper]() |  Zhuoran Song; Bangqi Fu    ||
-|  |      |Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training  <br>[paper]() |Bojian Zheng; Nandita Vijaykumar           ||
+|  |      |Gorgon: Accelerating Machine Learning from Relational Data <br> |Matthew Vilim; Alex Rucker                             |    Stanford University                                  |
+|  |      |SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks <br>[paper](http://www.cs.utah.edu/~rajeev/pubs/isca20s.pdf) |Surya Narayanan; Karl Taht                             | University of Utah                                      |
+|  |      |MLPerf Inference Benchmark  <br>[paper](https://arxiv.org/pdf/1911.02549.pdf) |Vijay Janapa Reddi                             |        |
+|  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br>[paper](https://arxiv.org/pdf/1903.02596.pdf) |Esha Choukse; Michael Sullivan                             |    University of Texas at Austin & NVIDIA                                 |
+|  |      |A Multi-Neural Network Acceleration Architecture  <br> |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |Seoul National University|
+|  |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br> |  Zhuoran Song; Bangqi Fu    |Shanghai Jiao Tong University|
+|  |      |Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training  <br>[paper](https://arxiv.org/pdf/1805.08899.pdf) |Bojian Zheng; Nandita Vijaykumar           |University of Toronto|
 ### 2019
 
 | Tags                                                         | -    | Title                                                        | Authors                                             | Affiliations                                                 |
