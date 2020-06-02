@@ -20,7 +20,7 @@
 
 ​	For guidance and searching purposes, Tags and/or notes are assigned to all these papers . We will use the following tags to annotate these papers.
 
-![Tags](tag-list.svg)
+![Tags](https://github.com/BirenResearch/AIChip_Paper_List/raw/master/tag-list.svg?sanitize=true)
 
 ​                               
 
