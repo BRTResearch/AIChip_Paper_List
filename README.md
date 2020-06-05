@@ -170,13 +170,14 @@
 ### 2015
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |    | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358) | Daofu Liu; Tianshi  Chen; Shaoli  Liu       | CAS; USTC; Inria |
-
+| Inference |    | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358) | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria |
 
 ### 2014
-| Tags | - | Title                                                                                       | Authors | Affiliations |
-|------|----|---------------------------------------------------------------------------------------------|---------|--------------|
-| Inference |    | DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning<br> [paper](http://novel.ict.ac.cn/ychen/pdf/DianNao.pdf) [note](notes/ASPLOS/DianNao%20A%20Small-Footprint%20High-Throughput%20Accelerator%20for%20Ubiquitous%20Machine-Learning.md)|  Tianshi Chen; Zidong Du; Ninghui Sun     | CAS; Inria   |
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+| Inference |     | DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning<br> [paper](http://novel.ict.ac.cn/ychen/pdf/DianNao.pdf) [note](notes/ASPLOS/DianNao%20A%20Small-Footprint%20High-Throughput%20Accelerator%20for%20Ubiquitous%20Machine-Learning.md)  | Tianshi Chen; Zidong Du; Ninghui Sun     | CAS; Inria        |
+
 
 
 ## MICRO
