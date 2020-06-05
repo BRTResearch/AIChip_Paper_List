@@ -79,7 +79,7 @@
 | Inference; Dataflow: Dynamic                   |  | Prediction Based Execution on Deep Neural Networks<br>[paper](https://mingcong.github.io/static/papers/Prediction_AI.pdf)                                                                                                                     | Mingcong Song; Tao Li                 | University of Flirida                                                |
 | Inference;  Datapath: bit-serial              |  | Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network<br>[paper](https://arxiv.org/pdf/1712.01507)                                                                                               | Hardik Sharma; Hadi Esmaeilzadeh      | Georgia Institute of Technology; University of California            |
 | Training;  memory: bandwith-saving            |  | Gist: Efficient Data Encoding for Deep Neural Network Training<br>[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/fiddle-gist-isca18.pdf)                                                                               | Animesh Jain; Gennady Pekhimenko      | Microsoft Research; University of Toronto; Univerity of Michigan     |
-| Inference;  Cross-module optimization     |  | The Dark Side of DNN Pruning<br>[paper](http://personals.ac.upc.edu/ryazdani/The_Dark_Side_of_DNN_Pruning.pdf)                                                                                                                                | Reza Yazdani; Antonio Gonza ?lez      | Universitat Polite ?cnica de Catalunya                               |
+| Inference;  Cross-module optimization     |  | The Dark Side of DNN Pruning<br>[paper](http://personals.ac.upc.edu/ryazdani/The_Dark_Side_of_DNN_Pruning.pdf)                                                                                                                                | Reza Yazdani; Antonio Gonza ?lez      | Universitat Polite ?cnica de Catalunya                 <br>              |
 
 
 ### 2017
@@ -92,7 +92,7 @@
 | Inference; Algorithm-architecture-codesign |      | Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism<br>[paper](http://homes.sice.indiana.edu/lukefahr/papers/jiecaoyu_isca17.pdf) | Jiecao Yu; Scott Mahlke                  | University of Michigan; ARM                                  |
 | Inference; Sparsity                        |      | SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks<br>[paper](https://arxiv.org/pdf/1708.04485)    [note](notes/ISCA/SCNN%20An%20Accelerator%20for%20Compressed-sparse%20Convolutional%20Neural%20Networks.md) | Angshuman Parashar; William J. Dally     | NVIDIA; MIT; UC-Berkeley; Stanford University                |
 | Training; Low-bit                          |      | Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent<br>[paper](http://dawn.cs.stanford.edu/pubs/sgd-isca2017.pdf) | Christopher De Sa; Kunle Olukotun        | Stanford University                                          |
-<br>
+
 
 
 ### 2016
