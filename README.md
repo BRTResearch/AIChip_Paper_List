@@ -94,18 +94,10 @@
 | Training; Low-bit                          |      | Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent<br> [paper](http://dawn.cs.stanford.edu/pubs/sgd-isca2017.pdf) | Christopher De Sa; Kunle Olukotun        | Stanford University                                          |
 
 
-### 2015
-
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference;Sparsity |     | FCnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing <br> [paper](http://www.eecg.toronto.edu/~enright/albericio-isca2016.pdf)   [note](notes/ISCA/Cnvlutin%20Ineffectual-Neuron-Free%20Deep%20Neural%20Network%20Computing%20.md) | orge Albericio; Tayler Hetheringto  | University of Toronto; University of British Columbia         |
-
-
-
 ### 2016
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br>  [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
 |Inference;Sparsity |     | FCnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing <br> [paper](http://www.eecg.toronto.edu/~enright/albericio-isca2016.pdf)   [note](notes/ISCA/Cnvlutin%20Ineffectual-Neuron-Free%20Deep%20Neural%20Network%20Computing%20.md) | orge Albericio; Tayler Hetheringto  | University of Toronto; University of British Columbia         |
 |Inference;Sparsity |     | Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing <br> [paper](http://www.eecg.toronto.edu/~enright/albericio-isca2016.pdf)   [note](notes/ISCA/Cnvlutin%20Ineffectual-Neuron-Free%20Deep%20Neural%20Network%20Computing%20.md)  | Jorge Albericio; Tayler Hetheringto | University of Toronto; University of British Columbia          |
 | Inference; Analog                           |   | ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars<br> [paper](https://www.cs.utah.edu/~rajeev/pubs/isca16.pdf) [note](notes/ISCA/ISAAC_A%20Convolutional%20Neural%20Network%20Accelerator%20with%20In-Situ%20Analog%20Arithmetic%20in%20Crossbars.md)                                                               | Ali Shafiee; Vivek Srikumar          | University of Utah，Hewlett Packard Labs               |
