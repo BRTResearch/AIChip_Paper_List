@@ -165,7 +165,7 @@
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference|     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br> [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
+| Inference |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br> [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
 
 ### 2015
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
