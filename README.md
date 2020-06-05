@@ -162,12 +162,6 @@
 | CNN; Algorithm-Architecture co-design |    | SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing<br> [paper](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) |         Ao Ren; Zhe  Li; Caiwen  Ding| Syracuse University; USC; The City College of New York |
 
 
-### 2017
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Dataflow, 3D Integration |    | Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory<br> [paper](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) |         Mingyu Gao; Jing Pu; Xuan Yang| Stanford University                                    |
-| CNN; Algorithm-Architecture co-design |    | SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing<br> [paper](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) |         Ao Ren; Zhe  Li; Caiwen  Ding| Syracuse University; USC; The City College of New York |
-
 ### 2015
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
@@ -310,8 +304,8 @@
 | Inference, ReRAM |    | PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning<br> [paper](http://alchem.usc.edu/portal/static/download/nn_memristor.pdf) |         Linghao Song; Xuehai Qian; Hai Li; Yiran Chen | University of Pittsburgh; University of Southern California |
 | Training |    | Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures<br> [paper](https://mingcong.github.io/static/papers/P-CNN.pdf) |         Mingcong Song; Yang Hu; Huixiang Chen; Tao Li | University of Florida                                       |
 
-
 ### 2016
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 |Programming model, training |    | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf) | Divya Mahajan; Jongse Park; Emmanuel Amaro; et.al.        | Georgia Institute of Technology                             |
