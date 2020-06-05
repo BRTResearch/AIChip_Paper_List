@@ -165,12 +165,12 @@
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br> [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
+| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br> [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
 
 ### 2015
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |    | PuDianNao: A Polyvalent Machine Learning Accelerator<br> [paper](https://dl.acm.org/doi/10.1145/2694344.2694358) | Daofu Liu; Tianshi  Chen; Shaoli  Liu; et.al.        | CAS; USTC; Inria |
+| Inference |    | PuDianNao: A Polyvalent Machine Learning Accelerator<br> [paper](https://dl.acm.org/doi/10.1145/2694344.2694358) | Daofu Liu; Tianshi  Chen; Shaoli  Liu; et.al        | CAS; USTC; Inria |
 
 
 ### 2014
