@@ -118,6 +118,18 @@
 
 
 ## ASPLOS
+### 2015
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+| Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br>  [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
+### 2015
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+| Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br>  [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
+|Inference; Security |     | Shredder: Learning Noise Distributions to Protect Inference Privacy<br> [paper](https://arxiv.org/pdf/1905.11814) |Fatemehsadat Mireshghallah; Mohammadkazem  Taram; et.al.  |UCSD        |
+
 ### 2020
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
