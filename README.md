@@ -57,7 +57,7 @@
 | Infernce;  Redundant computing                               |      | TIE: Energy-efficient Tensor Train-based Inference Engine for Deep Neural Network <br>[paper](https://dl.acm.org/doi/pdf/10.1145/3307650.3322258)  [note](notes/ISCA/TIE%20Energy-efficient%20Tensor%20Train-based%20Inference%20Engine%20for%20Deep%20Neural%20Network.md) | Chunhua Deng; Bo Yuan                               | Rutgers University                                           |
 | Training;  CNN; floating point                               |      | FloatPIM\_ in-memory acceleration of deep neural network training with high precision <br>[paper](https://dl.acm.org/doi/pdf/10.1145/3307650.3322237?download=true)  [note](notes/ISCA/FloatPIM%20in-memory%20acceleration%20of%20deep%20neural%20network%20training%20with%20high%20precision.md) | Mohsen Imani; Tajana Rosing                         | UC San Diego                                                 |
 | Training;  Programming model                                 |      | Cambricon-F\_ machine learning computers with fractal von neumann architecture <br>[paper](https://dl.acm.org/doi/pdf/10.1145/3307650.3322226)  [note](notes/ISCA/Cambricon-F%20Machine%20Learning%20Computers%20with%20Fractal%20von%20Neumann%20Architecture.md) | Yongwei Zhao; Yunji Chen                            | ICT; Cambricon                                               |
-<br>
+
 
 ### 2018
 
