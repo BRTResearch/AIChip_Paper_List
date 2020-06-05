@@ -114,11 +114,7 @@
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 | Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br> [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
 
-### 2015
 
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br> [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
 
 ## ASPLOS
 ### 2020
@@ -165,10 +161,15 @@
 | Dataflow, 3D Integration |    | Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory.<br>[paper](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) |         Mingyu Gao; Jing Pu; Xuan Yang; et.al.| Stanford University                                    |
 | CNN; Algorithm-Architecture co-design |    | SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing.<br>[paper](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) |         Ao Ren; Zhe  Li; Caiwen  Ding; et.al.| Syracuse University; USC; The City College of New York |
 
+### 2015
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+| Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br> [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
 
 ### 2015
-| Tags | - | Title                                                  | Authors | Affiliations     |
-|------|----|--------------------------------------------------------|---------|------------------|
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 | Inference |    | PuDianNao: A Polyvalent Machine Learning Accelerator.<br>[paper](https://dl.acm.org/doi/10.1145/2694344.2694358) | Daofu Liu; Tianshi  Chen; Shaoli  Liu; et.al.        | CAS; USTC; Inria |
 
 
