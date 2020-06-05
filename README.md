@@ -284,6 +284,17 @@
 | inference |    | Machine Learning at Facebook: Understanding Inference at the Edge<br> [paper](https://research.fb.com/wp-content/uploads/2018/12/Machine-Learning-at-Facebook-Understanding-Inference-at-the-Edge.pdf) | Carole-Jean Wu; David Brooks; Kevin Chen; et.al. | Facebook                                                                                                   |
 | Architecture-Physical co-design |    | The Accelerator Wall: Limits of Chip Specialization<br> [paper](https://parallel.princeton.edu/papers/wall-hpca19.pdf)   [codes](https://github.com/PrincetonUniversity/accelerator-wall) | Adi Fuchs; David Wentzlaff | Princeton                                                                                                  |
 
+### 2018
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+|Inference, CNN, Dataflow |     | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks<br> [paper](https://ieeexplore.ieee.org/document/7920855)  | Wenyan Lu; Guihai Yan; Jiajun Li; et.al.  | Chinese Academy of Sciences         |
+| Algorithm-Architecture co-design; GAN |    | Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning<br> [paper](https://mingcong.github.io/static/papers/GAN.pdf) | Mingcong Song; Jiaqi Zhang; Huixiang Chen; Tao Li | University of Florida                                                  |
+| compression; sparsity |    | Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks<br> [paper](https://www.cs.utexas.edu/users/skeckler/pubs/HPCA_2018_CDMA.pdf) |   Minsoo Rhu; Mike O'Connor; Niladrish Chatterjee; et.al.      | POSTECH; NVIDIA; UT-Austin                                            |
+| architecture-psychical co-design; inference |    | In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems<br> [paper](https://mingcong.github.io/static/papers/In-situ_AI.pdf) | Mingcong Song; Kan Zhong; Tao li; et.a. | University of Florida; Chongqing University; Capital Normal University |
+| Special operation; ReRam |    | GraphR: Accelerating Graph Processing Using ReRAM<br> [paper](http://alchem.usc.edu/portal/static/download/graphr.pdf) | Linghao Song;  Youwei Zhuo;  Xuehai Qian | Duke; USC;                                  |
+| pim; Special operation; datafow |    | GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition<br> [paper](https://www.aminer.cn/pub/5aed147c17c44a4438153ebe/graphp-reducing-communication-for-pim-based-graph-processing-with-efficient-data-partition) | Mingxing Zhang; Youwei Zhuo; Chao Wang; et.al.        | THU; USC; Stanford                                                     |
+| Power optimization; PIM |    | PM3: Power Modeling and Power Management for Processing-in-Memory<br> [paper](http://124.205.79.108/docs/20180605172134850038.pdf) | Chao Zhang;  Tong Meng;  Guangyu Sun | PKU                                                                    |
 
 ### 2018
 |                                                         |      |                                                              |                                                   |                                                              |
@@ -301,24 +312,11 @@
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference, CNN, Dataflow |     | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks<br> [paper]()  | Wenyan Lu; Guihai Yan; Jiajun Li; et.al.  | Chinese Academy of Sciences         |
+|Inference, CNN, Dataflow |     | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks<br> [paper](https://ieeexplore.ieee.org/document/7920855)  | Wenyan Lu; Guihai Yan; Jiajun Li; et.al.  | Chinese Academy of Sciences         |
 | Inference, ReRAM |    | PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning<br> [paper](http://alchem.usc.edu/portal/static/download/nn_memristor.pdf) |         Linghao Song; Xuehai Qian; Hai Li; Yiran Chen | University of Pittsburgh; University of Southern California |
 | Training |    | Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures<br> [paper](https://mingcong.github.io/static/papers/P-CNN.pdf) |         Mingcong Song; Yang Hu; Huixiang Chen; Tao Li | University of Florida                                       |
 
-### 2017
 
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference, CNN, Dataflow |     | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks<br> [paper]()  | Wenyan Lu; Guihai Yan; Jiajun Li; et.al.  | Chinese Academy of Sciences         |
-|Inference, CNN, Dataflow |     | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks<br> [paper]()  | Wenyan Lu; Guihai Yan; Jiajun Li; et.al.  | Chinese Academy of Sciences         |
-|Inference, CNN, Dataflow |     | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks<br> [paper]()  | Wenyan Lu; Guihai Yan; Jiajun Li; et.al.  | Chinese Academy of Sciences         |
-
-### 2017
-| Tags | - | Title                                                                                      | Authors | Affiliations                                                |
-|------|----|--------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------|
-| Inference, CNN, Dataflow |    | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks<br> [paper]() |   Wenyan Lu; Guihai Yan; Jiajun Li; et.al.      | Chinese Academy of Sciences                                 |
-| Inference, ReRAM |    | PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning<br> [paper](http://alchem.usc.edu/portal/static/download/nn_memristor.pdf) |         Linghao Song; Xuehai Qian; Hai Li; Yiran Chen | University of Pittsburgh; University of Southern California |
-| Training |    | Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures<br> [paper](https://mingcong.github.io/static/papers/P-CNN.pdf) |         Mingcong Song; Yang Hu; Huixiang Chen; Tao Li | University of Florida                                       |
 
 ### 2016
 
