@@ -298,8 +298,8 @@
 
 
 ### 2017
-| Tags | - | Title                                                                                      | Authors | Affiliations                                                |
-|------|----|--------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------|
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 |Programming model, training |     | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)  | Divya Mahajan; Jongse Park; Emmanuel Amaro | Georgia Institute of Technology        |
 ### 2017
 | Tags | - | Title                                                                                      | Authors | Affiliations                                                |
