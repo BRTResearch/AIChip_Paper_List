@@ -93,11 +93,14 @@
 | Inference; Sparsity                        |      | SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks<br> [paper](https://arxiv.org/pdf/1708.04485)    [note](notes/ISCA/SCNN%20An%20Accelerator%20for%20Compressed-sparse%20Convolutional%20Neural%20Networks.md) | Angshuman Parashar; William J. Dally     | NVIDIA; MIT; UC-Berkeley; Stanford University                |
 | Training; Low-bit                          |      | Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent<br> [paper](http://dawn.cs.stanford.edu/pubs/sgd-isca2017.pdf) | Christopher De Sa; Kunle Olukotun        | Stanford University                                          |
 
-### 2016
+### 2015
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 | Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br>  [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
-### 2016
+
+### 2015
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 | Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br>  [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
