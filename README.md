@@ -298,9 +298,17 @@
 
 
 ### 2017
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Programming model, training |     | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)  | Divya Mahajan; Jongse Park; Emmanuel Amaro | Georgia Institute of Technology        |
+|Inference, CNN, Dataflow |     | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks<br> [paper]()  | Wenyan Lu; Guihai Yan; Jiajun Li; et.al.  | Chinese Academy of Sciences         |
+
+### 2017
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+|Inference, CNN, Dataflow |     | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)  | Wenyan Lu; Guihai Yan; Jiajun Li; et.al.  | Chinese Academy of Sciences         |
+
 ### 2017
 | Tags | - | Title                                                                                      | Authors | Affiliations                                                |
 |------|----|--------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------|
