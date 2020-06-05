@@ -118,18 +118,16 @@
 
 
 ## ASPLOS
-### 2015
-
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br>  [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
-### 2015
+### 2020
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 | Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br>  [paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
 |Inference; Security |     | Shredder: Learning Noise Distributions to Protect Inference Privacy<br> [paper](https://arxiv.org/pdf/1905.11814) |Fatemehsadat Mireshghallah; Mohammadkazem  Taram; et.al.  |UCSD        |
-
+###2020
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+|Inference; Security |     | Shredder: Learning Noise Distributions to Protect Inference Privacy<br> [paper](https://arxiv.org/pdf/1905.11814) |Fatemehsadat Mireshghallah; Mohammadkazem  Taram; et.al.  |UCSD        |
 ### 2020
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
@@ -159,6 +157,19 @@
 | Training, Quantization, Compression |    | ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers<br> [paper](http://alchem.usc.edu/portal/static/download/admmnn.pdf) |         Ao Ren; Tianyun Zhang; Shaokai Ye; et.al.| Northeastern; Syracuse; SUNY; Buffalo; USC |
 | Security |    | DeepSigns: An End-to-End Watermarking Framework for Protecting the Ownership of Deep Neural Networks<br> [paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/2019ASPLOS_Final_DeepSigns.pdf) | Bita Darvish Rouhani; Huili Chen; Farinaz Koushanfar        | UCSD                                       |
 
+### 2015
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
+### 2018
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
+| Compiler|    | Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler<br> [paper](https://arxiv.org/pdf/1801.00746) [slides](https://drive.google.com/open?id=1yU_xyeormi5UhR0vHcFGRWpaCDQTvAJp) |         Yu Ji; Youhui Zhang; Wenguang Chen; Yuan Xie|  Tsinghua; UCSB       |    
+| Inference, Dataflow, NoC |    | MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects<br> [paper](https://anands09.github.io/papers/maeri_asplos2018.pdf) [slides](https://drive.google.com/open?id=1ac-hg0rWhB3Z71jJTbTDkHVVlfg6n5BX) | Hyoukjun Kwon; Ananda  Samajdar; Tushar  Krishna        | Georgia Tech                              |
+| Bayesian |    | VIBNN: Hardware Acceleration of Bayesian Neural Networks<br> [paper](https://arxiv.org/pdf/1802.00822) | Ruizhe Cai; Ao  Ren; Ning  Liu; et.al.        | Syracuse University; USC                  |
 
 ### 2018
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
@@ -166,6 +177,18 @@
 | Compiler|    | Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler<br> [paper](https://arxiv.org/pdf/1801.00746) [slides](https://drive.google.com/open?id=1yU_xyeormi5UhR0vHcFGRWpaCDQTvAJp) |         Yu Ji; Youhui Zhang; Wenguang Chen; Yuan Xie|  Tsinghua; UCSB       |    
 | Inference, Dataflow, NoC |    | MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects<br> [paper](https://anands09.github.io/papers/maeri_asplos2018.pdf) [slides](https://drive.google.com/open?id=1ac-hg0rWhB3Z71jJTbTDkHVVlfg6n5BX) | Hyoukjun Kwon; Ananda  Samajdar; Tushar  Krishna        | Georgia Tech                              |
 | Bayesian |    | VIBNN: Hardware Acceleration of Bayesian Neural Networks<br> [paper](https://arxiv.org/pdf/1802.00822) | Ruizhe Cai; Ao  Ren; Ning  Liu; et.al.        | Syracuse University; USC                  |
+
+### 2015
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
+### 2017
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
+| Dataflow, 3D Integration |    | Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory<br> [paper](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) |         Mingyu Gao; Jing Pu; Xuan Yang| Stanford University        |   
+| CNN; Algorithm-Architecture co-design |    | SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing<br> [paper](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) |         Ao Ren; Zhe  Li; Caiwen  Ding| Syracuse University; USC; The City College of New York |
 
 ### 2017
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
