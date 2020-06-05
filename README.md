@@ -109,11 +109,11 @@
 | Inference                                   |   | Cambricon: An Instruction Set Architecture for Neural Networks <br/>[paper](https://seal.ece.ucsb.edu/sites/seal.ece.ucsb.edu/files/publications/07551409.pdf)   [note](notes/ISCA/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.md) | Shaoli Liu; Tianshi Chen             | CAS; Cambricon Ltd.                                  |
 
 ### 2015
-<table>
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 | Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br/>[paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
-</table>
+<br>
 
 
 ## ASPLOS
@@ -307,4 +307,4 @@
 |------|----|---------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------|
 | Programming model, training |    | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning.<br/>[paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf) | Divya Mahajan; Jongse Park; Emmanuel Amaro; et.al.        | Georgia Institute of Technology                             |
 | ReRam; Boltzmann |    | Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning.<br/>[paper](http://www.cs.rochester.edu/~ipek/hpca16.pdf) |         Mahdi Nazm Bojnordi; Engin Ipek | University of Rochester                                     |
-
+<br>
