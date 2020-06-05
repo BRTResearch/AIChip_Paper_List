@@ -80,7 +80,7 @@
 | Inference;  Datapath: bit-serial              |  | Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network<br>[paper](https://arxiv.org/pdf/1712.01507)                                                                                               | Hardik Sharma; Hadi Esmaeilzadeh      | Georgia Institute of Technology; University of California            |
 | Training;  memory: bandwith-saving            |  | Gist: Efficient Data Encoding for Deep Neural Network Training<br>[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/fiddle-gist-isca18.pdf)                                                                               | Animesh Jain; Gennady Pekhimenko      | Microsoft Research; University of Toronto; Univerity of Michigan     |
 | Inference;  Cross-module optimization     |  | The Dark Side of DNN Pruning<br>[paper](http://personals.ac.upc.edu/ryazdani/The_Dark_Side_of_DNN_Pruning.pdf)                                                                                                                                | Reza Yazdani; Antonio Gonza ?lez      | Universitat Polite ?cnica de Catalunya                               |
-<br>
+
 
 ### 2017
 
@@ -92,7 +92,7 @@
 | Inference; Algorithm-architecture-codesign |      | Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism<br>[paper](http://homes.sice.indiana.edu/lukefahr/papers/jiecaoyu_isca17.pdf) | Jiecao Yu; Scott Mahlke                  | University of Michigan; ARM                                  |
 | Inference; Sparsity                        |      | SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks<br>[paper](https://arxiv.org/pdf/1708.04485)    [note](notes/ISCA/SCNN%20An%20Accelerator%20for%20Compressed-sparse%20Convolutional%20Neural%20Networks.md) | Angshuman Parashar; William J. Dally     | NVIDIA; MIT; UC-Berkeley; Stanford University                |
 | Training; Low-bit                          |      | Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent<br>[paper](http://dawn.cs.stanford.edu/pubs/sgd-isca2017.pdf) | Christopher De Sa; Kunle Olukotun        | Stanford University                                          |
-<br>
+
 
 
 ### 2016
@@ -107,13 +107,12 @@
 | Inference; Dataflow                         |   | Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks<br/>[paper](https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf)  [note](notes/ISCA//Eyeriss_A%20Spatial%20Architecture%20for%20Energy-Efficient%20Data%EF%AC%82ow%20for%20Convolutional%20Neural%20Networks.md)                              | Yu-Hsin Chen; Vivienne Sze          | MIT; NVIDIA                                           |
 | Inference; 3D integration                   |   | Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory <br/>[paper](http://www.iscaconf.org/isca2016/wp-content/uploads/2016/07/6-2.pdf)    [note](notes/ISCA/Neurocube%20A%20Programmable%20Digital%20Neuromorphic%20Architecture%20with%20High-Density%203D%20Memory.md) | Duckhwan Kim; Saibal Mukhopadhyay    | Georgia Institute of Technology                       |
 | Inference                                   |   | Cambricon: An Instruction Set Architecture for Neural Networks <br/>[paper](https://seal.ece.ucsb.edu/sites/seal.ece.ucsb.edu/files/publications/07551409.pdf)   [note](notes/ISCA/Cambricon%20An%20Instruction%20Set%20Architecture%20for%20Neural%20Networks.md) | Shaoli Liu; Tianshi Chen             | CAS; Cambricon Ltd.                                  |
-<br>
 
 ### 2015
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 | Inference; Cross-module optimization |     | ShiDianNao: Shifting Vision Processing Closer to the Sensor<br/>[paper](https://www.epfl.ch/labs/lap/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)    [note](notes/ISCA/ShiDianNao%20Shifting%20Vision%20Processing%20Closer%20to%20the%20Sensor.md) | Zidong Du | ICT          |
-<br>
+
 
 
 ## ASPLOS
@@ -129,7 +128,7 @@
 | Power optimization;  compute-memory trade-off |    | Capuchin: Tensor-based GPU Memory Management for Deep Learning.<br>[paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?download=true) |         Xuan Peng; Xuanhua Shi; Hulin Dai; et.al.| HUST; MSRA; USC                                 |
 | Compute-memory trade-off |    | NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units.<br>[paper](https://arxiv.org/pdf/1911.06859) | Bongjoon Hyun; Youngeun Kwon; Yujeong  Choi; et.al.         | KAIST                                           |
 | Algorithm-Architecture co-design |    | FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System.<br>[paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?download=true)  [codes](https://github.com/KnowingNothing/FlexTensor) | Size Zheng; Yun Liang; Shuo Wang; et.al.        | PKU                                             |
-<br>
+
 
 ### 2019
 | Tags | - | Title                                                                                                                                  | Authors | Affiliations                               |
@@ -145,7 +144,7 @@
 | Training, Compiler |    | Astra: Exploiting Predictability to Optimize Deep Learning.<br>[paper](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/astra-asplos19.pdf)  [note](notes/ASPLOS/Astra%20Exploiting%20Predictability%20to%20Optimize%20Deep%20Learning.md)| Muthian Sivathanu; Tapan Chugh; Sanjay S Singapuram; Lidong Zhou        | Microsoft                                  |
 | Training, Quantization, Compression |    | ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers.<br>[paper](http://alchem.usc.edu/portal/static/download/admmnn.pdf) |         Ao Ren; Tianyun Zhang; Shaokai Ye; et.al.| Northeastern; Syracuse; SUNY; Buffalo; USC |
 | Security |    | DeepSigns: An End-to-End Watermarking Framework for Protecting the Ownership of Deep Neural Networks.<br>[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/2019ASPLOS_Final_DeepSigns.pdf) | Bita Darvish Rouhani; Huili Chen; Farinaz Koushanfar        | UCSD                                       |
-<br>
+
 
 ### 2018
 | Tags | - | Title                                                                                                  | Authors | Affiliations                              |
@@ -153,26 +152,26 @@
 | Compiler |    | Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.<br>[paper](https://arxiv.org/pdf/1801.00746) [slides](https://drive.google.com/open?id=1yU_xyeormi5UhR0vHcFGRWpaCDQTvAJp) | Yu Ji; Youhui Zhang; Wenguang Chen; Yuan Xie         | Tsinghua; UCSB                            |
 | Inference, Dataflow, NoC |    | MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.<br>[paper](https://anands09.github.io/papers/maeri_asplos2018.pdf) [slides](https://drive.google.com/open?id=1ac-hg0rWhB3Z71jJTbTDkHVVlfg6n5BX) | Hyoukjun Kwon; Ananda  Samajdar; Tushar  Krishna        | Georgia Tech                              |
 | Bayesian |    | VIBNN: Hardware Acceleration of Bayesian Neural Networks.<br>[paper](https://arxiv.org/pdf/1802.00822) | Ruizhe Cai; Ao  Ren; Ning  Liu; et.al.        | Syracuse University; USC                  |
-<br>
+
 
 ### 2017
 | Tags | - | Title                                                                                     | Authors | Affiliations                                           |
 |------|----|-------------------------------------------------------------------------------------------|---------|--------------------------------------------------------|
 | Dataflow, 3D Integration |    | Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory.<br>[paper](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) |         Mingyu Gao; Jing Pu; Xuan Yang; et.al.| Stanford University                                    |
 | CNN; Algorithm-Architecture co-design |    | SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing.<br>[paper](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) |         Ao Ren; Zhe  Li; Caiwen  Ding; et.al.| Syracuse University; USC; The City College of New York |
-<br>
+
 
 ### 2015
 | Tags | - | Title                                                  | Authors | Affiliations     |
 |------|----|--------------------------------------------------------|---------|------------------|
 | Inference |    | PuDianNao: A Polyvalent Machine Learning Accelerator.<br>[paper](https://dl.acm.org/doi/10.1145/2694344.2694358) | Daofu Liu; Tianshi  Chen; Shaoli  Liu; et.al.        | CAS; USTC; Inria |
-<br>
+
 
 ### 2014
 | Tags | - | Title                                                                                       | Authors | Affiliations |
 |------|----|---------------------------------------------------------------------------------------------|---------|--------------|
 | Inference |    | DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.<br>[paper](http://novel.ict.ac.cn/ychen/pdf/DianNao.pdf) [note](notes/ASPLOS/DianNao%20A%20Small-Footprint%20High-Throughput%20Accelerator%20for%20Ubiquitous%20Machine-Learning.md)|  Tianshi Chen; Zidong Du; Ninghui Sun; et.al.       | CAS; Inria   |
-<br>
+
 
 ## MICRO
 ### 2019
@@ -197,7 +196,7 @@
 | sparsity; Algorithm-Architecture co-design; compression |    | Sparse Tensor Core: Algorithm and Hardware Co-Design for Vector-wise Sparse Neural Networks on Modern GPUs.<br>[paper](https://dl.acm.org/doi/pdf/10.1145/3352460.3358269?download=true) | Maohua Zhu; Tao Zhang; Tao Zhang; Yuan Xie | UCSB; Alibaba        |
 | special operation; inference |    | ASV: Accelerated Stereo Vision System.<br>[paper](https://www.cs.rochester.edu/horizon/pubs/micro19-tigris.pdf) [note](notes/MICRO/ASV%20Accelerated%20Stereo%20Vision%20System.md)  [codes1](https://github.com/horizon-research/ism-algorithm)   [codes2](https://github.com/horizon-research/systolic-array-dataflow-optimizer) | Yu Feng; Paul Whatmough; Yuhao Zhu | Rochester            |
 | Algorithm-Architecture co-design; special operation |    | Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach.<br>[paper](https://web.ece.ucsb.edu/~iakgun/files/MICRO2019.pdf) | Mingyu Yan;Xing Hu; Shuangchen Li; et.al. | UCSB; ICT            |
-<br>
+
 
 ### 2018
 | Tags | - | Title                                                                                                         | Authors | Affiliations                                              |
@@ -214,7 +213,7 @@
 | Training, special operation, dataflow |    | Multi-dimensional Parallel Training of Winograd Layer on Memory-centric Architecture.<br>[paper](https://dl.acm.org/doi/10.1109/MICRO.2018.00061) | Byungchul Hong; Yeonju Ro; John Kim        | KAIST                                                     |
 | PIM/CIM |    | SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator.<br>[paper](https://web.ece.ucsb.edu/~shuangchenli/TR/micro_scope_pub.pdf) |         Shuangchen Li; Alvin Oliver Glova; Xing Hu; et.al.| UCSB; Samsung                                             |
 | Inference, algorithm-architecture co-design |    | Morph: Flexible Acceleration for 3D CNN-based Video Understanding.<br>[paper](https://arxiv.org/pdf/1810.06807) | Kartik Hegde; Rohit Agrawal; Yulun Yao; Christopher W Fletcher        | UIUC                                                      |
-<br>
+
 
 ### 2017
 | Tags | - | Title                                                                                                                    | Authors | Affiliations                                                                                                |
@@ -224,7 +223,7 @@
 | PIM |    | DRISA: A DRAM-based Reconfigurable In-Situ Accelerator.<br/>[paper](https://www.ece.ucsb.edu/Faculty/selected_pubs/xie/2017-MICRO-DRISA%20A%20DRAM%20Based%20Reconfigurable%20In-Situ%20Accelerator.pdf)  [note](notes/MICRO/DRISA%20A%20DRAM-based%20Reconfigurable%20In-Situ%20Accelerator.md)|  Shuangchen Li; Dimin Niu; et.al.       | UCSB; Samsung                                                                                               |
 | Distributed computing |    | Scale-Out Acceleration for Machine Learning.<br/>[paper](https://www.cc.gatech.edu/~hadi/doc/paper/2017-micro-cosmic.pdf) | Jongse Park; Hardik Sharma; Divya Mahajan; et.al.        | Georgia Tech; UCSD                                                                                          |
 | DNN, Sparsity, Bandwidth saving|    | DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission.<br/>[paper](http://cccp.eecs.umich.edu/papers/parkerhh-micro17.pdf) | Parker Hill; Animesh Jain; Mason Hill; et.al.        | Univ. of Michigan; Univ. of Nevada                                                                        |
-<br>
+
 
 ### 2016
 | Tags | - | Title                                                                                              | Authors | Affiliations                                                    |
@@ -237,13 +236,13 @@
 | Cross Module optimization |    | Fused-Layer CNN Accelerators.<br/>[paper](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/MICRO16_Fused_Layer_CNN_Accelerators.pdf) | Manoj Alwani; Han Chen; Michael Ferdman; Peter Milder        | Stony Brook University                                          |
 | power optimization, cross module optimization |    | A Patch Memory System For Image Processing and Computer Vision.<br/>[paper](https://www.cs.utexas.edu/~skeckler/pubs/MICRO_2016_Patch_Memory.pdf) | Jason Clemons; Chih-Chi Cheng; Iuri Frosio; Daniel Johnson; Stephen W. Keckler | NVIDIA; Qualcomm                                               |
 | power optimization |    | An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition.<br/>[paper](https://personals.ac.upc.edu/jarnau/micro2016.pdf) | Reza Yazdani; Albert Segura; Jose-Maria Arnau; Antonio Gonzalez | Universitat Politecnica de Catalunya                            |
-<br>
+
 
 ### 2014
 | Tags | - | Title                                          | Authors | Affiliations                          |
 |------|----|------------------------------------------------|---------|---------------------------------------|
 | Inference, CNN |    | DaDianNao: A Machine-Learning Supercomputer.<br/>[paper](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf) [note](notes/MICRO/DaDianNao%20A%20Machine-Learning%20Supercomputer.md)| Yunji Chen; Tao Luo; Shaoli Liu; et.al.       | CAS; Inria; Inner Mongolia University |
-<br>
+
 
 
 ## HPCA
@@ -267,7 +266,7 @@
 | algorithm-architecture co-design           |    | A Hybrid Systolic-Dataflow Architecture for Inductive Matrix Algorithms.<br>[Paper](http://web.cs.ucla.edu/~tjn/papers/hpca2020-revel.pdf)                                                                                                                                                                           | Jian Weng; Sihao Liu; Zhengrong Wang; et.al.        | UCLA                    |
 | Reinforcement Learning; NoC; algorithm-architecture co-design               |    | A Deep Reinforcement Learning Framework for Architectural Exploration: A Routerless NoC Case Study.<br>[Paper](http://web.engr.oregonstate.edu/~chenliz/publications/2020\_HPCA\_Deep%20Reinforcement%20Learning%20for%20Routerless%20NoC.pdf)  [note](notes/HPCA/A%20Deep%20Reinforcement%20Learning%20Framework%20for%20Architectural%20Exploration_%20A%20Routerless%20NoC%20Case%20Study.md)                                                                        |  Ting-Ru Lin; Drew Penney; Massoud Pedram; Lizhong Chen       | USC; OSU                |
 | power optimization                                 |    | Techniques for Reducing the Connected-Standby Energy Consumption of Mobile Devices.<br>[Paper](https://people.inf.ethz.ch/omutlu/pub/mobile-idle-power-management-intel-skylake\_hpca20.pdf)                                                                                                                     | Jawad Haj-Yahya; Yanos Sazeides; Mohammed Alser; et.al.        | ETHZ; Cyprus; CMU       |
-<br>
+
 
 ### 2019
 | Tags | - | Title                                                                                                | Authors | Affiliations                                                                                               |
@@ -280,7 +279,7 @@
 | Accuracy-Latency trade-off |    | Kelp: QoS for Accelerators in Machine Learning Platforms.<br/>[paper](https://lph.ece.utexas.edu/merez/uploads/MattanErez/hpca19_kelp.pdf) | Haishan Zhu; David Lo; Liqun Cheng | Microsoft; Google; UT Austin                                                                               |
 | inference |    | Machine Learning at Facebook: Understanding Inference at the Edge.<br/>[paper](https://research.fb.com/wp-content/uploads/2018/12/Machine-Learning-at-Facebook-Understanding-Inference-at-the-Edge.pdf) | Carole-Jean Wu; David Brooks; Kevin Chen; et.al. | Facebook                                                                                                   |
 | Architecture-Physical co-design |    | The Accelerator Wall: Limits of Chip Specialization.<br/>[paper](https://parallel.princeton.edu/papers/wall-hpca19.pdf)   [codes](https://github.com/PrincetonUniversity/accelerator-wall) | Adi Fuchs; David Wentzlaff | Princeton                                                                                                  |
-<br>
+
 
 ### 2018
 |                                                         |      |                                                              |                                                   |                                                              |
@@ -292,7 +291,7 @@
 | Special operation; ReRam |    | GraphR: Accelerating Graph Processing Using ReRAM.<br/>[paper](http://alchem.usc.edu/portal/static/download/graphr.pdf) | Linghao Song;  Youwei Zhuo;  Xuehai Qian | Duke; USC;                                  |
 | pim; Special operation; datafow |    | GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition.<br/>[paper](https://www.aminer.cn/pub/5aed147c17c44a4438153ebe/graphp-reducing-communication-for-pim-based-graph-processing-with-efficient-data-partition) | Mingxing Zhang; Youwei Zhuo; Chao Wang; et.al.        | THU; USC; Stanford                                                     |
 | Power optimization; PIM |    | PM3: Power Modeling and Power Management for Processing-in-Memory.<br/>[paper](http://124.205.79.108/docs/20180605172134850038.pdf) | Chao Zhang;  Tong Meng;  Guangyu Sun | PKU                                                                    |
-<br>
+
 
 ### 2017
 | Tags | - | Title                                                                                      | Authors | Affiliations                                                |
@@ -300,11 +299,11 @@
 | Inference, CNN, Dataflow |    | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks.<br/>[paper]() |   Wenyan Lu; Guihai Yan; Jiajun Li; et.al.      | Chinese Academy of Sciences                                 |
 | Inference, ReRAM |    | PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning.<br/>[paper](http://alchem.usc.edu/portal/static/download/nn_memristor.pdf) |         Linghao Song; Xuehai Qian; Hai Li; Yiran Chen | University of Pittsburgh; University of Southern California |
 | Training |    | Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures.<br/>[paper](https://mingcong.github.io/static/papers/P-CNN.pdf) |         Mingcong Song; Yang Hu; Huixiang Chen; Tao Li | University of Florida                                       |
-<br>
+
 
 ### 2016
 | Tags | - | Title                                                                                                   | Authors | Affiliations                                                |
 |------|----|---------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------|
 | Programming model, training |    | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning.<br/>[paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf) | Divya Mahajan; Jongse Park; Emmanuel Amaro; et.al.        | Georgia Institute of Technology                             |
 | ReRam; Boltzmann |    | Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning.<br/>[paper](http://www.cs.rochester.edu/~ipek/hpca16.pdf) |         Mahdi Nazm Bojnordi; Engin Ipek | University of Rochester                                     |
-<br>
+
