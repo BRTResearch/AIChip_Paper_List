@@ -157,17 +157,12 @@
 | Training, Quantization, Compression |    | ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers<br> [paper](http://alchem.usc.edu/portal/static/download/admmnn.pdf) |         Ao Ren; Tianyun Zhang; Shaokai Ye; et.al.| Northeastern; Syracuse; SUNY; Buffalo; USC |
 | Security |    | DeepSigns: An End-to-End Watermarking Framework for Protecting the Ownership of Deep Neural Networks<br> [paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/2019ASPLOS_Final_DeepSigns.pdf) | Bita Darvish Rouhani; Huili Chen; Farinaz Koushanfar        | UCSD                                       |
 
-### 2015
 
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
 ### 2018
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
-| Compiler|    | Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler<br> [paper](https://arxiv.org/pdf/1801.00746) [slides](https://drive.google.com/open?id=1yU_xyeormi5UhR0vHcFGRWpaCDQTvAJp) |         Yu Ji; Youhui Zhang; Wenguang Chen; Yuan Xie|  Tsinghua; UCSB       |    
+| Compiler |     | Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler<br> [paper](https://arxiv.org/pdf/1801.00746) [slides](https://drive.google.com/open?id=1yU_xyeormi5UhR0vHcFGRWpaCDQTvAJp)  | Yu Ji; Youhui Zhang; Wenguang Chen; Yuan Xie |  Tsinghua; UCSB        |
 | Inference, Dataflow, NoC |    | MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects<br> [paper](https://anands09.github.io/papers/maeri_asplos2018.pdf) [slides](https://drive.google.com/open?id=1ac-hg0rWhB3Z71jJTbTDkHVVlfg6n5BX) | Hyoukjun Kwon; Ananda  Samajdar; Tushar  Krishna        | Georgia Tech                              |
 | Bayesian |    | VIBNN: Hardware Acceleration of Bayesian Neural Networks<br> [paper](https://arxiv.org/pdf/1802.00822) | Ruizhe Cai; Ao  Ren; Ning  Liu; et.al.        | Syracuse University; USC                  |
 
@@ -183,7 +178,9 @@
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 | Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
-### 2017
+
+### 2015
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 | Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
