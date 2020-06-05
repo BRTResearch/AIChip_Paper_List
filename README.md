@@ -309,8 +309,9 @@
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 |Programming model, training |     | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)  | Divya Mahajan; Jongse Park; Emmanuel Amaro | Georgia Institute of Technology        |
-|
+
 |Programming model, training |     | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)  | Divya Mahajan; Jongse Park; Emmanuel Amaro | Georgia Institute of Technology        |
+|ReRam; Boltzmann |     | Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning<br> [paper](http://www.cs.rochester.edu/~ipek/hpca16.pdf)  | Mahdi Nazm Bojnordi; Engin Ipek  | University of Rochester      |
 
 
 
