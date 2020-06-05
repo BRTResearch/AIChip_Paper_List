@@ -210,11 +210,6 @@
 | special operation; inference |    | ASV: Accelerated Stereo Vision System<br> [paper](https://www.cs.rochester.edu/horizon/pubs/micro19-tigris.pdf) [note](notes/MICRO/ASV%20Accelerated%20Stereo%20Vision%20System.md)  [codes1](https://github.com/horizon-research/ism-algorithm)   [codes2](https://github.com/horizon-research/systolic-array-dataflow-optimizer) | Yu Feng; Paul Whatmough; Yuhao Zhu | Rochester            |
 | Algorithm-Architecture co-design; special operation |    | Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach<br> [paper](https://web.ece.ucsb.edu/~iakgun/files/MICRO2019.pdf) | Mingyu Yan;Xing Hu; Shuangchen Li; et.al. | UCSB; ICT            |
 
-### 2014
-
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference, CNN |    | DaDianNao: A Machine-Learning Supercomputer<br> [paper](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf) [note](notes/MICRO/DaDianNao%20A%20Machine-Learning%20Supercomputer.md)| Yunji Chen; Tao Luo; Shaoli Liu; et.al.       | CAS; Inria; Inner Mongolia University |
 
 ### 2018
 
@@ -233,74 +228,25 @@
 | PIM/CIM |    | SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator<br> [paper](https://web.ece.ucsb.edu/~shuangchenli/TR/micro_scope_pub.pdf) |         Shuangchen Li; Alvin Oliver Glova; Xing Hu; et.al.| UCSB; Samsung                                             |
 | Inference, algorithm-architecture co-design |    | Morph: Flexible Acceleration for 3D CNN-based Video Understanding<br> [paper](https://arxiv.org/pdf/1810.06807) | Kartik Hegde; Rohit Agrawal; Yulun Yao; Christopher W Fletcher        | UIUC                                                      |
 
-### 2018
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Sparsity |     | Cambricon-s: Addressing Irregularity in Sparse Neural Networks: A Cooperative Software/Hardware Approach<br> [paper](https://dl.acm.org/doi/pdf/10.1109/MICRO.2018.00011?download=true)  | Xuda Zhou ; Zidong Du ; Qi Guo ; Shaoli Liu ; Chengsi Liu ; Chao Wang ; Xuehai Zhou ; Ling Li ; Tianshi Chen ; Yunji Chen     | USTC; CAS          |
-| Sparsity|    | Cambricon-s: Addressing Irregularity in Sparse Neural Networks: A Cooperative Software/Hardware Approach<br> [paper](https://dl.acm.org/doi/pdf/10.1109/MICRO.2018.00011?download=true) | Xuda Zhou ; Zidong Du ; Qi Guo ; Shaoli Liu ; Chengsi Liu ; Chao Wang ; Xuehai Zhou ; Ling Li ; Tianshi Chen ; Yunji Chen        | USTC; CAS                                                 |
-| Inference; CNN; spatial correlation |    | Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator<br> [paper](http://www.eecg.toronto.edu/~mostafam/files/Diffy%20a%20Deja%20vu-Free%20Differential%20Deep%20Neural%20Network%20Accelerator.pdf) | Mostafa Mahmoud ; Kevin Siu ; Andreas Moshovos        | University of Toronto                                     |
-| Distributed computing |    | Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning<br> [paper](https://arxiv.org/abs/1902.06468) | Youngeun Kwon; Minsoo Rhu         | KAIST                                                     |
-| RNN |    | Towards Memory Friendly Long-Short Term Memory Networks\(LSTMs\) on Mobile GPUs<br> [paper](https://dl.acm.org/doi/pdf/10.1109/MICRO.2018.00022) | Xingyao Zhang; Chenhao Xie; Jing Wang; et.al.        | University of Houston; Capital Normal University          |
-| Training, distributed computing, compression |    | A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2018-micro-inceptionn.pdf)  [note](notes/MICRO/A%20Network-Centric%20Hardware_Algorithm%20Co-Design%20to%20Accelerate%20Distributed%20Training%20of%20Deep%20Neural%20Networks.md)| Youjie Li; Jongse Park; Mohammad Alian; et.al.        | UIUC; THU; SJTU; Intel; UCSD                              |
-| Inference, sparsity, compression |    | PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices<br> [paper](http://people.ece.umn.edu/~parhi/PAPERS/Yuan_Parhi_MICRO_2018.pdf) |  Chunhua Deng; Siyu Liao; Yi Xie; et.al.       | City University of New York; University of Minnesota; USC |
-| Reinforcement Learning, algorithm-architecture co-design |    | GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware<br> [paper](https://arxiv.org/pdf/1808.01363) | Ananda Samajdar; Parth Mannan; Kartikay Garg; Tushar Krishna        | Georgia Tech                                              |
-| Training,  PIM |    | Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach<br> [paper](https://cseweb.ucsd.edu/~jzhao/files/pim-micro2018.pdf)  [note](notes/MICRO/Processing-in-Memory%20for%20Energy-efficient%20Neural%20Network%20Training%20A%20Heterogeneous%20Approach.md)|  Jiawen Liu; Hengyu Zhao; et.al.       | UCM; UCSD; UCSC                                           |
-| GAN, PIM |    | LerGAN: A Zero-free; Low Data Movement and PIM-based GAN Architecture<br> [paper](https://www.computer.org/10.1109/MICRO.2018.00060) |  Haiyu Mao; Mingcong Song; Tao Li; et.al.       | THU; University of Florida                                |
-| Training, special operation, dataflow |    | Multi-dimensional Parallel Training of Winograd Layer on Memory-centric Architecture<br> [paper](https://dl.acm.org/doi/10.1109/MICRO.2018.00061) | Byungchul Hong; Yeonju Ro; John Kim        | KAIST                                                     |
-| PIM/CIM |    | SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator<br> [paper](https://web.ece.ucsb.edu/~shuangchenli/TR/micro_scope_pub.pdf) |         Shuangchen Li; Alvin Oliver Glova; Xing Hu; et.al.| UCSB; Samsung                                             |
-| Inference, algorithm-architecture co-design |    | Morph: Flexible Acceleration for 3D CNN-based Video Understanding<br> [paper](https://arxiv.org/pdf/1810.06807) | Kartik Hegde; Rohit Agrawal; Yulun Yao; Christopher W Fletcher        | UIUC                                                      |
-### 2014
 
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference, CNN |    | DaDianNao: A Machine-Learning Supercomputer<br> [paper](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf) [note](notes/MICRO/DaDianNao%20A%20Machine-Learning%20Supercomputer.md)| Yunji Chen; Tao Luo; Shaoli Liu; et.al.       | CAS; Inria; Inner Mongolia University |
 
 ### 2017
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference, CNN |    | DaDianNao: A Machine-Learning Supercomputer<br> [paper](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf) [note](notes/MICRO/DaDianNao%20A%20Machine-Learning%20Supercomputer.md)| Yunji Chen; Tao Luo; Shaoli Liu; et.al.       | CAS; Inria; Inner Mongolia University |
-|Bit-serial  |   | Bit-Pragmatic Deep Neural Network Computing<br> [paper](https://arxiv.org/pdf/1610.06920)                             |         Jorge Albericio; Alberto Delmás; Patrick Judd; et.al.| NVIDIA; University of Toronto                                                                               |
+|Bit-serial|    | Bit-Pragmatic Deep Neural Network Computing<br> [paper](https://arxiv.org/pdf/1610.06920)  |Jorge Albericio; Alberto Delmás; Patrick Judd; et.al.      |  NVIDIA; University of Toronto  |
 | CNN, Special  computing |    | CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices<br> [paper](https://arxiv.org/abs/1708.08917) |         Caiwen Ding; Siyu Liao; Yanzhi Wang; et.al.| Syracuse University; City University of New York; USC; California State University; Northeastern University |
 | PIM |    | DRISA: A DRAM-based Reconfigurable In-Situ Accelerator<br> [paper](https://www.ece.ucsb.edu/Faculty/selected_pubs/xie/2017-MICRO-DRISA%20A%20DRAM%20Based%20Reconfigurable%20In-Situ%20Accelerator.pdf)  [note](notes/MICRO/DRISA%20A%20DRAM-based%20Reconfigurable%20In-Situ%20Accelerator.md)|  Shuangchen Li; Dimin Niu; et.al.       | UCSB; Samsung                                                                                               |
 | Distributed computing |    | Scale-Out Acceleration for Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2017-micro-cosmic.pdf) | Jongse Park; Hardik Sharma; Divya Mahajan; et.al.        | Georgia Tech; UCSD                                                                                          |
 | DNN, Sparsity, Bandwidth saving|    | DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission<br> [paper](http://cccp.eecs.umich.edu/papers/parkerhh-micro17.pdf) | Parker Hill; Animesh Jain; Mason Hill; et.al.        | Univ. of Michigan; Univ. of Nevada                            |
 
-### 2017
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Bit-serial  |    | Bit-Pragmatic Deep Neural Network Computing<br> [paper](https://arxiv.org/pdf/1610.06920)   | Jorge Albericio; Alberto Delmás; Patrick Judd; et.al.    | NVIDIA; University of Toronto   |
-|Bit-serial  |   | Bit-Pragmatic Deep Neural Network Computing<br> [paper](https://arxiv.org/pdf/1610.06920)                             |         Jorge Albericio; Alberto Delmás; Patrick Judd; et.al.| NVIDIA; University of Toronto                                                                               |
-| CNN, Special  computing |    | CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices<br> [paper](https://arxiv.org/abs/1708.08917) |         Caiwen Ding; Siyu Liao; Yanzhi Wang; et.al.| Syracuse University; City University of New York; USC; California State University; Northeastern University |
-| PIM |    | DRISA: A DRAM-based Reconfigurable In-Situ Accelerator<br> [paper](https://www.ece.ucsb.edu/Faculty/selected_pubs/xie/2017-MICRO-DRISA%20A%20DRAM%20Based%20Reconfigurable%20In-Situ%20Accelerator.pdf)  [note](notes/MICRO/DRISA%20A%20DRAM-based%20Reconfigurable%20In-Situ%20Accelerator.md)|  Shuangchen Li; Dimin Niu; et.al.       | UCSB; Samsung                                                                                               |
-| Distributed computing |    | Scale-Out Acceleration for Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2017-micro-cosmic.pdf) | Jongse Park; Hardik Sharma; Divya Mahajan; et.al.        | Georgia Tech; UCSD                                                                                          |
-| DNN, Sparsity, Bandwidth saving|    | DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission<br> [paper](http://cccp.eecs.umich.edu/papers/parkerhh-micro17.pdf) | Parker Hill; Animesh Jain; Mason Hill; et.al.        | Univ. of Michigan; Univ. of Nevada                            |
 
-### 2014
-
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference, CNN |    | DaDianNao: A Machine-Learning Supercomputer<br> [paper](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf) [note](notes/MICRO/DaDianNao%20A%20Machine-Learning%20Supercomputer.md)| Yunji Chen; Tao Luo; Shaoli Liu; et.al.       | CAS; Inria; Inner Mongolia University |
-
-### 2014
-
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference, CNN |    | DaDianNao: A Machine-Learning Supercomputer<br> [paper](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf) [note](notes/MICRO/DaDianNao%20A%20Machine-Learning%20Supercomputer.md)| Yunji Chen; Tao Luo; Shaoli Liu; et.al.       | CAS; Inria; Inner Mongolia University |
-|DNN, compiler, Dataflow |  | From High-Level Deep Neural Models to FPGAs<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf) | Hardik Sharma; Jongse Park; Divya Mahajan; et.al.         | Georgia Institute of Technology; Intel                          |
-| DNN, Runtime, training  |    | vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design<br> [paper](https://arxiv.org/pdf/1602.08124) | Minsoo Rhu; Natalia Gimelshei; Jason Clemons; et.al.        | NVIDIA                                                          |
-| Bit-serial |    | Stripes: Bit-Serial Deep Neural Network Computing<br> [paper](http://www.ece.ubc.ca/~taylerh/doc/stripes_micro16.pdf) |         Patrick Judd; Jorge Albericio; Tayler Hetherington; et.al.| University of Toronto; University of British Columbia           |
-| Sparsity |    | Cambricon-X: An Accelerator for Sparse Neural Networks<br> [paper](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/f/f1/Cambricon-X.pdf) | Shijin Zhang; Zidong Du; Lei Zhang; et.al.        | Chinese Academy of Sciences                                     |
-| Neuromorphic, Spiking, programming model|    | NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints<br> [paper](http://pacman.cs.tsinghua.edu.cn/~cwg/papers_cwg/micro16.pdf) |         Yu Ji; YouHui Zhang; ShuangChen Li; et.al.| Tsinghua University; UCSB                                       |
-| Cross Module optimization |    | Fused-Layer CNN Accelerators<br> [paper](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/MICRO16_Fused_Layer_CNN_Accelerators.pdf) | Manoj Alwani; Han Chen; Michael Ferdman; Peter Milder        | Stony Brook University                                          |
-| power optimization, cross module optimization |    | A Patch Memory System For Image Processing and Computer Vision<br> [paper](https://www.cs.utexas.edu/~skeckler/pubs/MICRO_2016_Patch_Memory.pdf) | Jason Clemons; Chih-Chi Cheng; Iuri Frosio; Daniel Johnson; Stephen W. Keckler | NVIDIA; Qualcomm                                               |
-| power optimization |    | An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition<br> [paper](https://personals.ac.upc.edu/jarnau/micro2016.pdf) | Reza Yazdani; Albert Segura; Jose-Maria Arnau; Antonio Gonzalez | Universitat Politecnica de Catalunya                            |
 
 ### 2016
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|DNN, compiler, Dataflow |    | From High-Level Deep Neural Models to FPGAs<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf)| Hardik Sharma; Jongse Park; Divya Mahajan; et.al.     | Georgia Institute of Technology; Intel      |
-|DNN, compiler, Dataflow |  | From High-Level Deep Neural Models to FPGAs<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf) | Hardik Sharma; Jongse Park; Divya Mahajan; et.al.         | Georgia Institute of Technology; Intel                          |
+|DNN, compiler, Dataflow |    | From High-Level Deep Neural Models to FPGAs<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf)| Hardik Sharma; Jongse Park; Divya Mahajan; et.al.        | Georgia Institute of Technology; Intel  |
 | DNN, Runtime, training  |    | vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design<br> [paper](https://arxiv.org/pdf/1602.08124) | Minsoo Rhu; Natalia Gimelshei; Jason Clemons; et.al.        | NVIDIA                                                          |
 | Bit-serial |    | Stripes: Bit-Serial Deep Neural Network Computing<br> [paper](http://www.ece.ubc.ca/~taylerh/doc/stripes_micro16.pdf) |         Patrick Judd; Jorge Albericio; Tayler Hetherington; et.al.| University of Toronto; University of British Columbia           |
 | Sparsity |    | Cambricon-X: An Accelerator for Sparse Neural Networks<br> [paper](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/f/f1/Cambricon-X.pdf) | Shijin Zhang; Zidong Du; Lei Zhang; et.al.        | Chinese Academy of Sciences                                     |
@@ -308,6 +254,7 @@
 | Cross Module optimization |    | Fused-Layer CNN Accelerators<br> [paper](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/MICRO16_Fused_Layer_CNN_Accelerators.pdf) | Manoj Alwani; Han Chen; Michael Ferdman; Peter Milder        | Stony Brook University                                          |
 | power optimization, cross module optimization |    | A Patch Memory System For Image Processing and Computer Vision<br> [paper](https://www.cs.utexas.edu/~skeckler/pubs/MICRO_2016_Patch_Memory.pdf) | Jason Clemons; Chih-Chi Cheng; Iuri Frosio; Daniel Johnson; Stephen W. Keckler | NVIDIA; Qualcomm                                               |
 | power optimization |    | An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition<br> [paper](https://personals.ac.upc.edu/jarnau/micro2016.pdf) | Reza Yazdani; Albert Segura; Jose-Maria Arnau; Antonio Gonzalez | Universitat Politecnica de Catalunya                            |
+
 
 ### 2014
 
@@ -317,9 +264,6 @@
 
 
 ## HPCA
-
-
-
 ### 2020
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
