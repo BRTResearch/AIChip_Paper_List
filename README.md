@@ -118,18 +118,11 @@
 
 
 ## ASPLOS
-### 2015
-
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
-
 ### 2020
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
-|Inference; Security |     | Shredder: Learning Noise Distributions to Protect Inference Privacy<br> [paper](https://arxiv.org/pdf/1905.11814) |Fatemehsadat Mireshghallah; Mohammadkazem  Taram; et.al.  |UCSD        |
+|Inference; Security |     | Shredder: Learning Noise Distributions to Protect Inference Privacy<br> [paper](https://arxiv.org/pdf/1905.11814)  | Fatemehsadat Mireshghallah; Mohammadkazem  Taram; et.al. |UCSD          |
 | Algorithm-Architecture co-design; Security |    | DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks<br> [paper](http://alchem.usc.edu/portal/static/download/dnnguard.pdf) [note](notes/ASPLOS/DNNGuard%20An%20Elastic%20Heterogeneous%20DNN%20Accelerator%20Architecture%20against%20Adversarial%20Attacks.md)| Xingbin Wang; Rui Hou; Boyan Zhao; et.al.        | CAS; USC                                        |
 | programming model;  Algorithm-Architecture co-design |    | Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378514)  [note](notes/ASPLOS/Interstellar_Using%20Halide%E2%80%99s%20Scheduling%20Language%20to%20Analyze%20DNN%20Accelerators.md)| Xuan Yang; Mark Horowitz; et.al.        | Stanford; THU                                   |
 | Algorithm-Architecture co-design; security |    | DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints<br> [paper](https://seal.ece.ucsb.edu/sites/default/files/publications/clean_project_asplos_cr_xing_3.pdf)  [codes](https://github.com/xinghu7788/DeepSniffer) | Xing Hu; Yuan Xie; et.al.        | UCSB                                            |
@@ -138,48 +131,13 @@
 | Power optimization;  compute-memory trade-off |    | Capuchin: Tensor-based GPU Memory Management for Deep Learning<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?download=true) |         Xuan Peng; Xuanhua Shi; Hulin Dai; et.al.| HUST; MSRA; USC                                 |
 | Compute-memory trade-off |    | NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units<br> [paper](https://arxiv.org/pdf/1911.06859) | Bongjoon Hyun; Youngeun Kwon; Yujeong  Choi; et.al.         | KAIST                                           |
 | Algorithm-Architecture co-design |    | FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?download=true)  [codes](https://github.com/KnowingNothing/FlexTensor) | Size Zheng; Yun Liang; Shuo Wang; et.al.        | PKU                                             |
-
-### 2020
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference; Security |     | Shredder: Learning Noise Distributions to Protect Inference Privacy<br> [paper](https://arxiv.org/pdf/1905.11814) |Fatemehsadat Mireshghallah; Mohammadkazem  Taram; et.al.  |UCSD        |
-| Algorithm-Architecture co-design; Security |    | DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks<br> [paper](http://alchem.usc.edu/portal/static/download/dnnguard.pdf) [note](notes/ASPLOS/DNNGuard%20An%20Elastic%20Heterogeneous%20DNN%20Accelerator%20Architecture%20against%20Adversarial%20Attacks.md)| Xingbin Wang; Rui Hou; Boyan Zhao; et.al.        | CAS; USC                                        |
-| programming model;  Algorithm-Architecture co-design |    | Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378514)  [note](notes/ASPLOS/Interstellar_Using%20Halide%E2%80%99s%20Scheduling%20Language%20to%20Analyze%20DNN%20Accelerators.md)| Xuan Yang; Mark Horowitz; et.al.        | Stanford; THU                                   |
-| Algorithm-Architecture co-design; security |    | DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints<br> [paper](https://seal.ece.ucsb.edu/sites/default/files/publications/clean_project_asplos_cr_xing_3.pdf)  [codes](https://github.com/xinghu7788/DeepSniffer) | Xing Hu; Yuan Xie; et.al.        | UCSB                                            |
-| Training; distributed computing |    | Prague: High-Performance Heterogeneity-Aware Asynchronous Decentralized Training<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378499?download=true) |         Qinyi Luo; Jiaao He; Youwei Zhuo; Xuehai Qian | USC                                             |
-| compression |    | PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning<br> [paper](https://arxiv.org/pdf/2001.00138.pdf) | Wei Niu; Xiaolong Ma; Sheng Lin; et.al.        | College of William and Mary; Northeastern ; USC |
-| Power optimization;  compute-memory trade-off |    | Capuchin: Tensor-based GPU Memory Management for Deep Learning<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?download=true) |         Xuan Peng; Xuanhua Shi; Hulin Dai; et.al.| HUST; MSRA; USC                                 |
-| Compute-memory trade-off |    | NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units<br> [paper](https://arxiv.org/pdf/1911.06859) | Bongjoon Hyun; Youngeun Kwon; Yujeong  Choi; et.al.         | KAIST                                           |
-| Algorithm-Architecture co-design |    | FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?download=true)  [codes](https://github.com/KnowingNothing/FlexTensor) | Size Zheng; Yun Liang; Shuo Wang; et.al.        | PKU                                             |
-
-### 2015
-
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
-
-### 2015
-
-| Tags                          | -    | Title                                                        | Authors   | Affiliations |
-| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
-|Inference,   ReRAM |     | PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference<br> [paper](https://arxiv.org/pdf/1901.10351.pdf) [note](notes/ASPLOS/PUMA%20A%20Programmable%20Ultra-efcient%20Memristor-based%20Accelerator%20for%20Machine%20Learning%20Inference.md) |Aayush Ankit; Dejan S Milojičić; et.al. | Purdue; UIUC; HP        |
-|Reinforcement Learning |   | FA3C: FPGA-Accelerated Deep Reinforcement Learning<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3297858.3304058?download=true) |         Hyungmin Cho; Pyeongseok Oh; Jiyoung Park; et.al.| Hongik University; SNU                     |
-| Inference, ReRAM |    | FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture<br> [paper](https://seal.ece.ucsb.edu/sites/default/files/publications/1901.09904.pdf) [note](notes/ASPLOS/FPSA_FPSA%20A%20Full%20System%20Stack%20Solution%20for%20Reconfigurable%20ReRAM-based%20NN%20Accelerator%20Architecture.md) |   Yu Ji; Yuan Xie; et.al.      | THU; UCSB                                  |
-| Inference, Bit-serial |    | Bit-Tactical: A Software/Hardware Approach to Exploiting Value and Bit Sparsity in Neural Networks<br> [paper](http://www.eecg.toronto.edu/~mostafam/files/TCL_ASPLOS2019.pdf) | Alberto Delmas Lascorz; Andreas Ioannis Moshovos; et.al.         | Toronto; NVIDIA                            |
-| Inference, Dataflow |    | TANGRAM: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators<br> [paper](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf) [note](notes/ASPLOS/TANGRAM%20Optimized%20Coarse-Grained%20Dataflow%20for%20Scalable%20NN%20Accelerators.md)  [codes](https://github.com/stanford-mast/nn_dataflow) | Mingyu Gao; Xuan Yang; Jing Pu; et.al.         | Stanford                                   |
-| Inference, CNN, Systolic, Sparsity |    | Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization<br> [paper](http://www.eecs.harvard.edu/~htk/publication/2019-asplos-kung-mcdanel-zhang.pdf)  [codes](https://github.com/BradMcDanel/column-combine) |   Hsiangtsung Kung;Bradley McDanel; Saiqian Zhang      | Harvard                                    |
-| Training, CNN, Distributed computing |    | Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3297858.3304038?download=true) |  Tian Jin; Seokin Hong       | IBM; Kyungpook National University         |
-| Training, Distributed computing |    | HOP: Heterogeneity-Aware Decentralized Training<br> [paper](http://alchem.usc.edu/~qinyi/download/hop.pdf)                          |  Qinyi Luo; Jinkun Lin; Youwei Zhuo; Xuehai Qian       | USC; THU                                   |
-| Training, Compiler |    | Astra: Exploiting Predictability to Optimize Deep Learning<br> [paper](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/astra-asplos19.pdf)  [note](notes/ASPLOS/Astra%20Exploiting%20Predictability%20to%20Optimize%20Deep%20Learning.md)| Muthian Sivathanu; Tapan Chugh; Sanjay S Singapuram; Lidong Zhou        | Microsoft                                  |
-| Training, Quantization, Compression |    | ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers<br> [paper](http://alchem.usc.edu/portal/static/download/admmnn.pdf) |         Ao Ren; Tianyun Zhang; Shaokai Ye; et.al.| Northeastern; Syracuse; SUNY; Buffalo; USC |
-| Security |    | DeepSigns: An End-to-End Watermarking Framework for Protecting the Ownership of Deep Neural Networks<br> [paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/2019ASPLOS_Final_DeepSigns.pdf) | Bita Darvish Rouhani; Huili Chen; Farinaz Koushanfar        | UCSD                                       |
 
 
 ### 2019
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|Inference,   ReRAM |     | PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference<br> [paper](https://arxiv.org/pdf/1901.10351.pdf) [note](notes/ASPLOS/PUMA%20A%20Programmable%20Ultra-efcient%20Memristor-based%20Accelerator%20for%20Machine%20Learning%20Inference.md) |Aayush Ankit; Dejan S Milojičić; et.al. | Purdue; UIUC; HP        |
+| Inference,   ReRAM  |     | PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference<br> [paper](https://arxiv.org/pdf/1901.10351.pdf) [note](notes/ASPLOS/PUMA%20A%20Programmable%20Ultra-efcient%20Memristor-based%20Accelerator%20for%20Machine%20Learning%20Inference.md)   | Aayush Ankit; Dejan S Milojičić; et.al. | Purdue; UIUC; HP        |
 |Reinforcement Learning |   | FA3C: FPGA-Accelerated Deep Reinforcement Learning<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3297858.3304058?download=true) |         Hyungmin Cho; Pyeongseok Oh; Jiyoung Park; et.al.| Hongik University; SNU                     |
 | Inference, ReRAM |    | FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture<br> [paper](https://seal.ece.ucsb.edu/sites/default/files/publications/1901.09904.pdf) [note](notes/ASPLOS/FPSA_FPSA%20A%20Full%20System%20Stack%20Solution%20for%20Reconfigurable%20ReRAM-based%20NN%20Accelerator%20Architecture.md) |   Yu Ji; Yuan Xie; et.al.      | THU; UCSB                                  |
 | Inference, Bit-serial |    | Bit-Tactical: A Software/Hardware Approach to Exploiting Value and Bit Sparsity in Neural Networks<br> [paper](http://www.eecg.toronto.edu/~mostafam/files/TCL_ASPLOS2019.pdf) | Alberto Delmas Lascorz; Andreas Ioannis Moshovos; et.al.         | Toronto; NVIDIA                            |
@@ -190,6 +148,7 @@
 | Training, Compiler |    | Astra: Exploiting Predictability to Optimize Deep Learning<br> [paper](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/astra-asplos19.pdf)  [note](notes/ASPLOS/Astra%20Exploiting%20Predictability%20to%20Optimize%20Deep%20Learning.md)| Muthian Sivathanu; Tapan Chugh; Sanjay S Singapuram; Lidong Zhou        | Microsoft                                  |
 | Training, Quantization, Compression |    | ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers<br> [paper](http://alchem.usc.edu/portal/static/download/admmnn.pdf) |         Ao Ren; Tianyun Zhang; Shaokai Ye; et.al.| Northeastern; Syracuse; SUNY; Buffalo; USC |
 | Security |    | DeepSigns: An End-to-End Watermarking Framework for Protecting the Ownership of Deep Neural Networks<br> [paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/2019ASPLOS_Final_DeepSigns.pdf) | Bita Darvish Rouhani; Huili Chen; Farinaz Koushanfar        | UCSD                                       |
+
 
 
 ### 2018
