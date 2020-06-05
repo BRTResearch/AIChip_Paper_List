@@ -158,7 +158,8 @@
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Dataflow, 3D Integration |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)  | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         || CNN; Algorithm-Architecture co-design |    | SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing<br> [paper](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) |         Ao Ren; Zhe  Li; Caiwen  Ding| Syracuse University; USC; The City College of New York |
+| Dataflow, 3D Integration |    | Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory<br> [paper](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) |         Mingyu Gao; Jing Pu; Xuan Yang| Stanford University        |   
+| CNN; Algorithm-Architecture co-design |    | SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing<br> [paper](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) |         Ao Ren; Zhe  Li; Caiwen  Ding| Syracuse University; USC; The City College of New York |
 
 
 ### 2017
@@ -311,8 +312,8 @@
 
 
 ### 2016
-| Tags | - | Title                                                                                                   | Authors | Affiliations                                                |
-|------|----|---------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------|
-| Programming model, training |    | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf) | Divya Mahajan; Jongse Park; Emmanuel Amaro; et.al.        | Georgia Institute of Technology                             |
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+|Programming model, training |    | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf) | Divya Mahajan; Jongse Park; Emmanuel Amaro; et.al.        | Georgia Institute of Technology                             |
 | ReRam; Boltzmann |    | Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning<br> [paper](http://www.cs.rochester.edu/~ipek/hpca16.pdf) |         Mahdi Nazm Bojnordi; Engin Ipek | University of Rochester                                     |
 <br> 
