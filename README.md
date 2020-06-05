@@ -98,6 +98,7 @@
 ### 2016
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+|Programming model, training |     | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)  | Divya Mahajan; Jongse Park; Emmanuel Amaro | Georgia Institute of Technology        |
 |Inference;Sparsity  |    | Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing <br> [paper](http://www.eecg.toronto.edu/~enright/albericio-isca2016.pdf)   [note](notes/ISCA/Cnvlutin%20Ineffectual-Neuron-Free%20Deep%20Neural%20Network%20Computing%20.md) | Jorge Albericio; Tayler Hetheringto  | University of Toronto; University of British Columbia |
 | Inference; Analog                           |   | ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars<br> [paper](https://www.cs.utah.edu/~rajeev/pubs/isca16.pdf) [note](notes/ISCA/ISAAC_A%20Convolutional%20Neural%20Network%20Accelerator%20with%20In-Situ%20Analog%20Arithmetic%20in%20Crossbars.md)                                                               | Ali Shafiee; Vivek Srikumar          | University of Utah，Hewlett Packard Labs               |
 | Inference; PIM                              |   | PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory<br> [paper](https://seal.ece.ucsb.edu/sites/default/files/publications/prime_isca_2016.pdf)      [note](notes/ISCA/PRIME_A%20Novel%20Processing-in-memory%20Architecture%20for%20Neural%20Network%20Computation%20in%20ReRAM-based%20Main%20Memory.md)            | Ping Chi; Yuan Xie                   | University of California                              |
@@ -118,8 +119,9 @@
 
 ## ASPLOS
 ### 2020
-| Tags | - | Title                                                                                                                                         | Authors | Affiliations                                    |
-|------|----|-----------------------------------------------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------|
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+|Programming model, training |     | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)  | Divya Mahajan; Jongse Park; Emmanuel Amaro | Georgia Institute of Technology        |
 | Inference; Security |    | Shredder: Learning Noise Distributions to Protect Inference Privacy<br> [paper](https://arxiv.org/pdf/1905.11814)                 |         Fatemehsadat Mireshghallah; Mohammadkazem  Taram; et.al. | UCSD                                            |
 | Algorithm-Architecture co-design; Security |    | DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks<br> [paper](http://alchem.usc.edu/portal/static/download/dnnguard.pdf) [note](notes/ASPLOS/DNNGuard%20An%20Elastic%20Heterogeneous%20DNN%20Accelerator%20Architecture%20against%20Adversarial%20Attacks.md)| Xingbin Wang; Rui Hou; Boyan Zhao; et.al.        | CAS; USC                                        |
 | programming model;  Algorithm-Architecture co-design |    | Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3373376.3378514)  [note](notes/ASPLOS/Interstellar_Using%20Halide%E2%80%99s%20Scheduling%20Language%20to%20Analyze%20DNN%20Accelerators.md)| Xuan Yang; Mark Horowitz; et.al.        | Stanford; THU                                   |
@@ -132,8 +134,9 @@
 
 
 ### 2019
-| Tags | - | Title                                                                                                                                  | Authors | Affiliations                               |
-|------|----|----------------------------------------------------------------------------------------------------------------------------------------|---------|--------------------------------------------|
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+|Programming model, training |     | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)  | Divya Mahajan; Jongse Park; Emmanuel Amaro | Georgia Institute of Technology        |
 | Reinforcement Learning |    | FA3C: FPGA-Accelerated Deep Reinforcement Learning<br> [paper](https://dl.acm.org/doi/pdf/10.1145/3297858.3304058?download=true) |         Hyungmin Cho; Pyeongseok Oh; Jiyoung Park; et.al.| Hongik University; SNU                     |
 | Inference,   ReRAM |    | PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference<br> [paper](https://arxiv.org/pdf/1901.10351.pdf) [note](notes/ASPLOS/PUMA%20A%20Programmable%20Ultra-efcient%20Memristor-based%20Accelerator%20for%20Machine%20Learning%20Inference.md) |         Aayush Ankit; Dejan S Milojičić; et.al.| Purdue; UIUC; HP                           |
 | Inference, ReRAM |    | FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture<br> [paper](https://seal.ece.ucsb.edu/sites/default/files/publications/1901.09904.pdf) [note](notes/ASPLOS/FPSA_FPSA%20A%20Full%20System%20Stack%20Solution%20for%20Reconfigurable%20ReRAM-based%20NN%20Accelerator%20Architecture.md) |   Yu Ji; Yuan Xie; et.al.      | THU; UCSB                                  |
@@ -148,8 +151,9 @@
 
 
 ### 2018
-| Tags | - | Title                                                                                                  | Authors | Affiliations                              |
-|------|----|--------------------------------------------------------------------------------------------------------|---------|-------------------------------------------|
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+|Programming model, training |     | TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning<br> [paper](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)  | Divya Mahajan; Jongse Park; Emmanuel Amaro | Georgia Institute of Technology        |
 | Compiler |    | Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler<br> [paper](https://arxiv.org/pdf/1801.00746) [slides](https://drive.google.com/open?id=1yU_xyeormi5UhR0vHcFGRWpaCDQTvAJp) | Yu Ji; Youhui Zhang; Wenguang Chen; Yuan Xie         | Tsinghua; UCSB                            |
 | Inference, Dataflow, NoC |    | MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects<br> [paper](https://anands09.github.io/papers/maeri_asplos2018.pdf) [slides](https://drive.google.com/open?id=1ac-hg0rWhB3Z71jJTbTDkHVVlfg6n5BX) | Hyoukjun Kwon; Ananda  Samajdar; Tushar  Krishna        | Georgia Tech                              |
 | Bayesian |    | VIBNN: Hardware Acceleration of Bayesian Neural Networks<br> [paper](https://arxiv.org/pdf/1802.00822) | Ruizhe Cai; Ao  Ren; Ning  Liu; et.al.        | Syracuse University; USC                  |
@@ -277,9 +281,10 @@
 
 
 ### 2019
+
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-|training;  compute-memory trade-off |     | HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array<br> [paper](https://scinapse.io/papers/2911148381) [note](notes/HPCA/HyPar_Towards%20Hybrid%20Parallelism%20for%20Deep%20Learning%20Accelerator%20Array.md) | Linghao Song; Jiachen Mao; Yiran Chen; et.al.  | Duke; USC   |
+|training;  compute-memory trade-off |     | HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array<br> [paper](https://scinapse.io/papers/2911148381) [note](notes/HPCA/HyPar_Towards%20Hybrid%20Parallelism%20for%20Deep%20Learning%20Accelerator%20Array.md)  | Linghao Song; Jiachen Mao; Yiran Chen; et.al. | Duke; USC    |
 | RNN; algorithm-architecture co-design |    | E-RNN: Design Optimization for Efficient Recurrent Neural Networks in FPGAs<br> [paper](https://arxiv.org/abs/1812.07106) | Zhe Li; Caiwen Ding; Siyue Wang | Syracuse University; Northeastern University; Florida International University; USC; University at Buffalo |
 | CNN, Bit-serial, Sparsity |    | Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks<br> [paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8675204) |         Xiaowei Wang; Jiecao Yu; Charles Augustine; et.al.| Michigan; Intel                                                                                            |
 | cross-Module optimization |    | Shortcut Mining: Exploiting Cross-layer Shortcut Reuse in DCNN Accelerators<br> [paper](http://web.engr.oregonstate.edu/~chenliz/publications/2019_HPCA_Shortcut%20Mining.pdf) | Arash Azizimazreah; Lizhong Chen | OSU                                                                                                        |
