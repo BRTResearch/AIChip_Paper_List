@@ -38,10 +38,10 @@
 | Inference; dataflow |      |Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workload <br> [paper](https://www.iscaconf.org/isca2020/papers/466100a145.pdf) |Dennis Abts; Jonathan Ross | Groq Inc.                     |
 | Spiking; dataflow; Sparsity |      |SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks <br> [paper](http://www.cs.utah.edu/~rajeev/pubs/isca20s.pdf) |Surya Narayanan; Karl Taht                             | University of Utah                                      |
 | Inference; benchmarking |      |MLPerf Inference Benchmark  <br> [paper](https://arxiv.org/pdf/1911.02549.pdf) |Vijay Janapa Reddi; Lingjie Xu, etc.   |       |
-| GPU; Compression  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br> [paper](https://arxiv.org/pdf/1903.02596.pdf) |Esha Choukse; Michael Sullivan                             |    University of Texas at Austin; NVIDIA                                 |
+| GPU; Compression  |      |Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs  <br> [paper](https://www.iscaconf.org/isca2020/papers/466100a926.pdf) |Esha Choukse; Michael Sullivan                             |    University of Texas at Austin; NVIDIA                                 |
 | Inference; runtime |      |A Multi-Neural Network Acceleration Architecture  <br>[paper](https://www.iscaconf.org/isca2020/papers/466100a940.pdf) |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |Seoul National University|
 | Inference; Dynamic fixed-point |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br> [paper](https://www.iscaconf.org/isca2020/papers/466100b010.pdf)|  Zhuoran Song; Naifeng Jing; Xiaoyao Liang  |Shanghai Jiao Tong University|
-| Training; LSTM; GPU  |      |Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training  <br> [paper](https://arxiv.org/pdf/1805.08899.pdf) |Bojian Zheng; Nandita Vijaykumar           |University of Toronto|
+| Training; LSTM; GPU  |      |Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training  <br> [paper](https://www.iscaconf.org/isca2020/papers/466100b089.pdf) |Bojian Zheng; Nandita Vijaykumar           |University of Toronto|
 
 ### 2019
 
