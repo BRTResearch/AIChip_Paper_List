@@ -42,6 +42,7 @@
 | Inference; runtime |      |A Multi-Neural Network Acceleration Architecture  <br>[paper](https://www.iscaconf.org/isca2020/papers/466100a940.pdf) |Eunjin Baek; Dongup Kwon; Jangwoo Kim                                   |Seoul National University|
 | Inference; Dynamic fixed-point |      |DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration  <br> [paper](https://www.iscaconf.org/isca2020/papers/466100b010.pdf)|  Zhuoran Song; Naifeng Jing; Xiaoyao Liang  |Shanghai Jiao Tong University|
 | Training; LSTM; GPU  |      |Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training  <br> [paper](https://www.iscaconf.org/isca2020/papers/466100b089.pdf) |Bojian Zheng; Nandita Vijaykumar           |University of Toronto|
+| Inference  |      |DeepRecSys: A System for Optimizing End-to-End At-Scale Neural Recommendation  <br> [paper](https://arxiv.org/pdf/2001.02772.pdf)  [note](notes/ISCA/DeepRecSys_A%20System%20for%20Optimizing%20End-to-End%20At-Scale%20Neural%20Recommendation%20Inference.md) |Udit Gupta; Samuel Hsia; Vikram Saraph          |Harvard University; Facebook Inc|
 
 ### 2019
 
