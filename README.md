@@ -3,8 +3,7 @@
 
  - [About This Project](#about-this-project)
  - [The Chronological Listing of Papers](#the-chronological-listing-of-papers)
- - [The Chronological Listing of Papers](#ISCA)
-   -    [ISCA](#ISCA)
+   -    [ISCA](#the-chronological-listing-of-papers)
    -    [ASPLOS](#ASPLOS)
    -    [MICRO](#MICRO)
    -    [HPCA](#HPCA)
