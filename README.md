@@ -3,10 +3,10 @@
 
  - [About This Project](#about-this-project)
  - [The Chronological Listing of Papers](#the-chronological-listing-of-papers)
-   -    [ISCA](https://birenresearch.github.io/AIChip_Paper_List/#ISCA)
-   -    [ASPLOS](https://github.com/BirenResearch/AIChip_Paper_List#asplos)
-   -    [MICRO](https://github.com/BirenResearch/AIChip_Paper_List#micro)
-   -    [HPCA](https://github.com/BirenResearch/AIChip_Paper_List#hpca)
+   -    [ISCA](#isca)
+   -    [ASPLOS](#asplos)
+   -    [MICRO](#micro)
+   -    [HPCA](#hpca)
 
 
 ## About This Project
