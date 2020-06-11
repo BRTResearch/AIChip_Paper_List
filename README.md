@@ -3,7 +3,8 @@
 
  - [About This Project](#about-this-project)
  - [The Chronological Listing of Papers](#the-chronological-listing-of-papers)
-   -    [ISCA](#ISCA111)
+ - [The Chronological Listing of Papers](#ISCA)
+   -    [ISCA](#ISCA)
    -    [ASPLOS](#ASPLOS)
    -    [MICRO](#MICRO)
    -    [HPCA](#HPCA)
@@ -29,7 +30,7 @@
 
 ​	We list all AI related articles  collected. The links of <u>paper</u>/<u>slides</u>/<u>note</u> are provided under the title of each article If available. Updating is in progress<br> 
 
-## ISCA111 
+## ISCA
 ### 2020
 
 | Tags                                                         | -    | Title                                                        | Authors                                             | Affiliations                                                 |
