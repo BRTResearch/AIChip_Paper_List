@@ -3,24 +3,24 @@
 Boosting the Performance of CNN Accelerators with Dynamic Fine-Grained Channel
 Gating
 
-**Publication:**
+**Publication**
 
-ASPLOS’18
+ASPLOS '18
 
-**Problem to solve:**
+**Problem to solve**
 
 Convolutional neural networks (CNNs) have demonstrated human level accuracy in
 many vision-related tasks and are being increasingly adopted for many
 applications, including real-time tasks such as autonomous driving and robotic
 manipulation. Unfortunately, state-of-the-art CNNs are highly compute-intensive,
-as they typically demand about 10\^9 floating point operations (FLOPs) per
+as they typically demand about 109 floating point operations (FLOPs) per
 inference. In order to deploy CNNs in a much broader range of applications,
 especially in embedded and mobile settings, we need to reduce the high
 computational cost without noticeably sacrificing inference accuracy.
 
 **Major contribution**
 
-Propose a new dynamic pruning technique, named channel gating (CGNet), which
+Propose a new dynamic pruning technique, named channel gating(CGNet), which
 removes ineffectual computations specific to each input at run time, and present
 a hardware accelerator architecture to effectively exploit the dynamic sparsity
 introduced by channel gating.
