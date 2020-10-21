@@ -1,12 +1,12 @@
-**Paper title:**
+**Paper Title：**
 
 Machine Learning at Facebook Understanding Inference at the Edge
 
 **Publication:**
 
-HPCA’19
+HPCA 2019
 
-**Problem to solve:**
+**Problem to Solve:**
 
 While machine learning models are currently trained on customized datacenter
 infrastructure, Facebook is working to bring machine learning inference to the
