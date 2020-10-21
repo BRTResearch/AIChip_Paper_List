@@ -1,12 +1,12 @@
-**Paper title:**
+**Paper Title：**
 
 Manna An Accelerator for Memory-Augmented Neural Networks
 
 **Publication:**
 
-MICRO’19
+Micro’2019
 
-**Problem to solve:**
+**Problem to Solve:**
 
 Memory-augmented neural networks (MANNs) present a unique challenge due to soft
 reads and writes to the differentiable memory, each of which requires access to
