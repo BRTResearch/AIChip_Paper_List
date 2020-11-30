@@ -170,22 +170,35 @@
 | CNN; Algorithm-Architecture co-design |    | SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing<br> [paper](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/ASPLOS/SC-DCNN%20Highly-Scalable%20Deep%20Convolutional%20Neural%20Network%20using%20Stochastic%20Computing.md) |         Ao Ren; Zhe  Li; Caiwen  Ding| Syracuse University; USC; The City College of New York |
 
 
+
 ### 2015
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |     | PuDianNao: A Polyvalent Machine Learning Accelerator<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)   [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/ASPLOS/PuDianNao%20A%20Polyvalent%20Machine%20Learning%20Accelerator.md) | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
+| Inference |     | In-Datacenter Performance Analysis of a Tensor Processing Unit<br>  [paper](https://dl.acm.org/doi/10.1145/2694344.2694358)   [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/ASPLOS/PuDianNao%20A%20Polyvalent%20Machine%20Learning%20Accelerator.md) | Daofu Liu; Tianshi  Chen; Shaoli  Liu | CAS; USTC; Inria         |
 
 
 ### 2014
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
-| Inference |     | DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning<br> [paper](http://novel.ict.ac.cn/ychen/pdf/DianNao.pdf) [note](notes/ASPLOS/DianNao%20A%20Small-Footprint%20High-Throughput%20Accelerator%20for%20Ubiquitous%20Machine-Learning.md)  | Tianshi Chen; Zidong Du; Ninghui Sun     | CAS; Inria        |
+| Inference |     | DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning<br> [paper](http://novel.ict.ac.cn/ychen/pdf/DianNao.pdf) [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/ISCA/In-Datacenter%20Performance%20Analysis%20of%20a%20Tensor%20Processing%20Unit.md)  | Tianshi Chen; Zidong Du; Ninghui Sun     | CAS; Inria        |
 
 
 
 ## MICRO
+### 2020
+
+| Tags                          | -    | Title                                                        | Authors   | Affiliations |
+| ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
+| PIM/CIM; systolic |     | Look-Up Table based Energy Efficient Processing in Cache Support for Neural Network Acceleration<br> [paper](https://www.microarch.org/micro53/papers/738300a088.pdf)  [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/MICRO/Look-Up%20Table%20based%20Energy%20Efficient%20Processing%20in%20Cache%20Support%20for%20Neural%20Network%20Acceleration.md)  |  Akshay Krishna Ramanathan1 |     The Pennsylvania State University ; Intel   |
+| PIM; cache; reconfigurable |     | FReaC Cache: Folded-Logic Reconfigurable Computing in the Last Level Cache<br> [paper](https://www.microarch.org/micro53/papers/738300a102.pdf)  [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/MICRO/FReaC%20Cache%20Folded-logic%20Reconfigurable%20Computing%20in%20the%20Last%20Level%20Cache.md)  |    Ashutosh Dhar | University of Illinois; Urbana-Champaign; †IBM Research;       |
+| Bayesian; sparsity |     | Fast-BCNN: Massive Neuron Skipping in Bayesian Convolutional Neural Networks<br> [paper](https://www.microarch.org/micro53/papers/738300a229.pdf)  [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/MICRO/Fast-BCNN%20Massive%20Neuron%20Skipping%20in%20Bayesian.md)  |   Qiyu Wan   |     ECOMS Lab;  University of Houston   |
+| low-bit |     | Non-Blocking Simultaneous Multithreading: Embracing the Resiliency of Deep Neural Networks<br> [paper](https://arxiv.org/pdf/2004.09309.pdf)  [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/MICRO/Non-Blocking%20Simultaneous%20Multithreading.md)  |  Gil Shomron; Uri Weiser   |   Faculty of Electrical Engineering; Technion — Israel Institute of Technology     |
+| compiler |     | ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning<br> [paper](https://arxiv.org/pdf/2009.02010.pdf)  [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/MICRO/ConfuciuX%20Autonomous%20Hardware%20Resource%20Assignment%20for%20DNN%20Accelerators%20using%20Reinforcement%20Learning.md)  |  Sheng-Chun Kao; Geonhwa Jeong; Tushar Krishna   |  Georgia Institute of Technology      |
+| algorithm-architecture co-design; cross-module optimization |     | VR-DANN: Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration<br> [paper](https://www.microarch.org/micro53/papers/738300a698.pdf)  [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/MICRO/VR-DANN%20Real-Time%20Video%20Recognition%20via%20Decoder-Assisted%20Neural%20Network%20Acceleration.md)  |  Zhuoran Song; Feiyang Wu; Xueyuan Liu1   |  Shanghai Jiao Tong University; Biren Research    |
+
+
 ### 2019
 
 | Tags                          | -    | Title                                                        | Authors   | Affiliations |
@@ -321,7 +334,7 @@
 | ----------------------------- | ---- | ------------------------------------------------------------ | --------- | ------------ |
 |Inference, CNN, Dataflow |     | FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks<br> [paper](https://ieeexplore.ieee.org/document/7920855)  [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/HPCA/FlexFlow%20A%20Flexible%20Dataflow%20Accelerator%20Architecture%20for%20Convolutional%20Neural%20Networks.md)  | Wenyan Lu; Guihai Yan; Jiajun Li; et.al.  | Chinese Academy of Sciences         |
 | Inference, ReRAM |    | PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning<br> [paper](http://alchem.usc.edu/portal/static/download/nn_memristor.pdf)  [note](notes/HPCA/PipeLaye-A%20Pipelined%20ReRAM-Based%20Accelrator-for-Deep-Learning-LX.md)|         Linghao Song; Xuehai Qian; Hai Li; Yiran Chen | University of Pittsburgh; University of Southern California |
-| Training |    | Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures<br> [paper](https://mingcong.github.io/static/papers/P-CNN.pdf) |         Mingcong Song; Yang Hu; Huixiang Chen; Tao Li | University of Florida                                       |
+| Training |    | Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures<br> [paper](https://mingcong.github.io/static/papers/P-CNN.pdf) [note](https://github.com/BirenResearch/AIChip_Paper_List/blob/master/notes/HPCA/Towards%20Pervasive%20and%20User%20Satisfactory%20CNN%20across%20GPU%20Microarchitectures.md)|         Mingcong Song; Yang Hu; Huixiang Chen; Tao Li | University of Florida                                       |
 
 
 
